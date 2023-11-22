@@ -7,10 +7,10 @@ archivos_json = ['hamburguesa.json', 'pizza.json', 'vegetariana.json', 'colombia
 
 for archivo_json in archivos_json:
     # Construir la ruta completa al archivo JSON
-    ruta_json = f'scrapping/{archivo_json}'  # Reemplaza con la ruta adecuada
+    ruta_json = f'back-thefoodiesguide/scrapping/{archivo_json}'  # Reemplaza con la ruta adecuada
 
     # Leer el contenido del archivo JSON
-    with open(ruta_json, 'r') as archivo:
+    with open(ruta_json, 'r', encoding="utf8") as archivo:
         datos = json.load(archivo)
 
     # URL de la API a la que harás la petición POST
