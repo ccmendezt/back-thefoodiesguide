@@ -1,0 +1,251 @@
+[
+  {
+    "nombre": "Restaurante Loto Azul Vegano",
+    "categoria": "vegetariana",
+    "direccion": "Cra. 5 Bis #12C-02, La Candelaria",
+    "telefono": "(601) 3342346",
+    "latitud": 4.6001913,
+    "longitud": -74.07237289999999,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFh20p1llyoyX90wdxuT3o8VVUXGwHA0aZoyRB6TMlmVUGkeZ2PZyKOUq1R6a5V0mceJYgQ6BAgsToeLynXDuM7vDgkW2FDW3g4OpusAS4fZcUjvD9nWO4ughaRKH1bD0vMx0dU3yB-97dRkgbs7R8D1OMEWrH_gmNfypcNbuJNnR4Hn&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "Flor Correa",
+        "rating": "2",
+        "texto": "Hemos llegado aqui por las reseñas, hemos pedido el menu que viene con sopa, un plato y bebido por $17.500, un buen precio. Sin embargo, no nos ha gustado, porque? Ambos platos no tenian sabor, simplemente eran insipidos. No mal sabor no buen sabor, ni quiera el jugo de tomate de arbol. No volveria."
+      },
+      {
+        "autor": "Monica Aguero",
+        "rating": "4",
+        "texto": "Para los veganos/vegetarianos un lugar con mucha s opciones!!! Abundante y rico."
+      },
+      {
+        "autor": "Elver Alberto Siaucho Ruiz",
+        "rating": "5",
+        "texto": "Excelente y amplio restaurante con disponibilidad de platos a la carta completamente vegetarianos y veranos."
+      },
+      {
+        "autor": "Aldana Romero",
+        "rating": "4",
+        "texto": "La comida es rica. Feliz de encontrar unas opción veggie en Bogotá ya que estas son escasas. Lo más destacable de este lugar son los precios súper económicos, menú del día 12mil colombianos. Buena atención. Volvería"
+      },
+      {
+        "autor": "Julie Rivera",
+        "rating": "1",
+        "texto": "Encontré un gusano gigante en mi comida. El higiene es terrible y me enfermé dos veces por culpa de los jugos que no están refrigerados.\n\nI found a giant worm in my food. The hygiene is deplorable and I got sick twice because of the unrefrigerated judges."
+      }
+    ],
+    "rating": "4.4"
+  },
+  {
+    "nombre": "Vegetarian restaurant El Champiñón",
+    "categoria": "vegetariana",
+    "direccion": "Cra. 8 #17-23",
+    "telefono": "No disponible",
+    "latitud": 4.604347,
+    "longitud": -74.0732122,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFjAYjQsLWlT99qYF4LBZWJqzpnsEtyqPu5w98ngi6Xrfy8tE3JcIaFASCaRMVkedeT2oAzawqscAs4_31QlUpF1yeX5pUdMNa0JrmH_rqjSJRJTu0Bf77j5jNooIrTnNZfzDU3CHXaYcjurEBUgnBwczTSi64Xfp1Ojiv9d-MDCqcVj&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "Fercho Ortiz",
+        "rating": "4",
+        "texto": "Muy buena la atención, tienen una muy buena variedad de ensaladas y jugos, un poco alto el precio pero vale la pena..."
+      },
+      {
+        "autor": "Carlos Ramirez",
+        "rating": "5",
+        "texto": "Excelente restaurante vegetariano con bastantes opciones de ensalada. Tal vez se puede dar más opciones en proteina por lo general hay solo una a diario.. en lo demás muy bueno.. fresco y de buen sabor y la atención es buena"
+      },
+      {
+        "autor": "Miguel Andrés Cañón Plazas",
+        "rating": "5",
+        "texto": "Un restaurante que ofrece opciones vegetarianas en el centro de la ciudad, con precios excelentes y presenta una buena cantidad por el precio adquirido. El lugar tiene un ambiente de restaurante clásico, con manteles y música ambiental. Sería perfecto para comer cotidianamente como para una invitación casual. El personal brinda una atención cálida. Recomendado."
+      },
+      {
+        "autor": "Isaías Montilla",
+        "rating": "5",
+        "texto": "Muy buen restaurante. El bufet buenísimo porque dan varias opciones de ensalada, un plato fuerte variado, sopa, refresco y postre. Muy amables las personas y el lugar es cómodo y acogedor. Lo recomiendo."
+      },
+      {
+        "autor": "Diana Ramirez",
+        "rating": "3",
+        "texto": "Bajo las estrellas por el precio, que desde pandemia subió a $17500 por almuerzo 😱(la porción que es como la de un corrientazo y la poca variedad del menú no justifican este valor, pues en otros restaurantes vegetarianos o veganos obtengo más por ese valor)\nAclaro que lo he visitado durante muchos años ( por qué sus alimentos son deliciosos,y la atencion es buena al igual la barra de ensaladas👌)pero a mí parecer el precio justo serían entre $11000 y $ 13000 a lo sumo.\nAdemás que deberían informar el cbio de precio al ingresar o tener en un lugar visible el valor.\n💰No se aceptan tarjetas ,solo efectivo o nequi."
+      }
+    ],
+    "rating": "4.4"
+  },
+  {
+    "nombre": "GOVINDA'S",
+    "categoria": "vegetariana",
+    "direccion": "Cl. 20 #6-35",
+    "telefono": "(601) 3423455",
+    "latitud": 4.605881099999999,
+    "longitud": -74.0710871,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFhHobIG3hjd9VH2lRWz1mmHXHhyYEM-Y6q-R4AzWrokgqoHWqEsgC4zI0LdXDUZ2UAWspri413704H3RzZZ1XpCguEwDzLql7WNEcnVHNI8zDbggnRYRbiZUPbaH0O4fck_uWnoxvnI0rgAd4NlZx7X81HPMtD7aKyG0xrYiObN3SmY&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "Evgeny Zakurneev",
+        "rating": "5",
+        "texto": "Me encantó la comida, muy saludable y hay mucho variedad. Y sobre todo es muy económico, me salio 13 mil por todo"
+      },
+      {
+        "autor": "Jessica Murillom",
+        "rating": "5",
+        "texto": "Muy Rico, los propietarios muy amables, es un lugar tranquilo pese a estar en el centro de la ciudad. Recomiendo probar las papitas rellenas y los tamales. El día que fui había un festival muy bello y colorido. Excelente👌"
+      },
+      {
+        "autor": "Natalia Torres",
+        "rating": "4",
+        "texto": "Comida rica, saludable y económica. Buena relación calidad y precio. El ambiente y decoración podrían mejorar sustancialmente ."
+      },
+      {
+        "autor": "ANDREA GARZON",
+        "rating": "5",
+        "texto": "La comida en este lugar es perfecta 🤤 👌 10 de 10.\nA demás de saludable es libre de crueldad animal y los precios son buenísimos 👏  lo recomiendo, pero deben ir temprano porque se acaba el almuerzo."
+      },
+      {
+        "autor": "Mary Acosta",
+        "rating": "5",
+        "texto": "Excelente la alimentación y la atención. Me encanta almorzar en este lugar. Y súper económico!!!"
+      }
+    ],
+    "rating": "4.4"
+  },
+  {
+    "nombre": "Restaurante Cocina Vegetariana",
+    "categoria": "vegetariana",
+    "direccion": "Cl. 18 #9-79 local 313",
+    "telefono": "(601) 2837627",
+    "latitud": 4.605699499999999,
+    "longitud": -74.0741644,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFgEhHNHxVwZg0NnZEWyBwoSNXanWyBz3mPDCFWa2rK38babtMktbxWSQYHlneNoANeK9WGyo57HX3db201CwPiqy0ZB07p6-mD16n8_XatRey-poFVn1VUXJDpJyIp0kP4pJ32mHsZXVyJ3J5RsmcBnGdNF3kmrIfmI8kYoOHkmXj3z&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "Diana Ramirez",
+        "rating": "5",
+        "texto": "Deliciosa comida, la atención es genial pues son todos muy amables y te dan datos importantes sobre la salud y el matabolismo. La leche de soya es la más rica que he tomado. Todo delicioso."
+      },
+      {
+        "autor": "Esteban Camargo",
+        "rating": "4",
+        "texto": "Restaurante especializado,su ubicación le permite tener una muy buena clientela y ser diferente en el sector aun más,buena atención menú bastante diverso y la recomendación es indudable,cumple con los protocolos de bioseguridad"
+      },
+      {
+        "autor": "JeronimoMarquezDJ",
+        "rating": "5",
+        "texto": "Excelente sitio por precio y ubicación. Menú variado y de alta calidad. El mejor restaurante vegetariano del sector."
+      },
+      {
+        "autor": "Luis Eduardo Fernandez Molinares",
+        "rating": "5",
+        "texto": "La comida estuvo deliciosa y la atención fue amable. Recomendado, un almuerzo casero vegetariano."
+      },
+      {
+        "autor": "José Oswaldo Fonseca Espejo",
+        "rating": "4",
+        "texto": "Buena atención, la comida natural y solo vegetales."
+      }
+    ],
+    "rating": "4.4"
+  },
+  {
+    "nombre": "Sin Fronteras Vegetariano Express",
+    "categoria": "vegetariana",
+    "direccion": "Cl. 24 #7 - 18",
+    "telefono": "319 6974259",
+    "latitud": 4.6102466,
+    "longitud": -74.0704719,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFhjkoQVoRYyog3jV0J-TxpPq4KtMFI-CVYBA_KWZ8XiHM4w9hdYd_b2xMJ7d7Brxou9jMvmAHJP__G7gzRklkav58Z-NfX1VQiHe3Epj2LdvyfKe_9ukEbij_4Bxef4VeRGHo9C4y8YINZW_vvTCkuiwfzISWLmO-yk2xch-Ou1f7lc&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "Carolina Rodríguez Aguirre",
+        "rating": "5",
+        "texto": "Una muy buena opción vegana, con sabores especiales, la sopa, el prinicpio y el jugo todo en su punto. La música y el ambiente es muy bueno también. Almuerzo de 10mil pesos y especiales a 13mil, super recomendado."
+      },
+      {
+        "autor": "alejandra linares",
+        "rating": "5",
+        "texto": "Un excelente lugar para comer saludable, por un buen precio tendrás una buena porción de comida deliciosa vegetariana. Con la mejor atención y la mejor energía."
+      },
+      {
+        "autor": "Luisa Katherine Pulido",
+        "rating": "5",
+        "texto": "Muy rica la comida y a un buen precio."
+      },
+      {
+        "autor": "Chandra Kanth Reddy",
+        "rating": "5",
+        "texto": "Me sorprende que un lugar tan increíble aún no haya recibido una reseña. Es como un menú completo de almuerzo por 10.000 pesos. Cada día el menú es diferente. Es muy local, muy colombiano, muy vegano y muy rico. Y lo mejor es que el zumo de fruta no contiene ningún tipo de azúcar añadido. Todavía me sorprende que este lugar no tenga críticas por ese precio y por una comida tan sabrosa con una porción generosa."
+      },
+      {
+        "autor": "James Kent",
+        "rating": "5",
+        "texto": "Gran lugar para un almuerzo vegano sabroso y barato si estás en la zona. ¡Súper barato también!"
+      }
+    ],
+    "rating": "5"
+  },
+  {
+    "nombre": "Mestizo Vegano",
+    "categoria": "vegetariana",
+    "direccion": "Cl. 21 # 6 52 edificio",
+    "telefono": "319 7254935",
+    "latitud": 4.6069116,
+    "longitud": -74.07080719999999,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFhnT49cLKQeq62XwrWvuNQCBaWunoJREcV3Exbn5Kb25YjXguNHyV1cXcUDOpssZ2tU-H8oBc7CrQIT_m4abuFsRI1FCmKVZsOcdoCFp6ZFHFjLC0xWid39djERXi1Or7gvHN0UK_c_apcQ5b4rYIaG4gKvvl1ev1FCXZHL9QShpvct&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "Espiral Polinio",
+        "rating": "4",
+        "texto": "Lindo lugar sobre la carrera séptima de la ciudad Bogotá, con excelente ambiente decorado con arte y colores maravillosos. Los precios son moderados y me gustó compartir allí con mis amigos. Sin embargo, al sabor de la comida le falta algo, un noséqué en el que radica el encanto del alimento. De cualquier forma, recomiendo el lugar, no es una mala experiencia. La atención es muy amable y servicial, lo que nutre gratamente la visita. Recomiendo también la chicha morada, deliciosa, es su mejor oferta."
+      },
+      {
+        "autor": "Jorge Mora",
+        "rating": "5",
+        "texto": "Comida saludable, deliciosa, nutritiva, novedosa, generosa porción; mejor dicho el lugar ideal para darle un regalo a tu cuerpo , sensaciones de placer en cada uno de los platos , recomendadísimos todos los platos y la chicha morada, la torta de chocolate unmmmm."
+      },
+      {
+        "autor": "Omaira Villamizar",
+        "rating": "5",
+        "texto": "Es una linda y bondadosa opción para quiens desean regalarse un alimento lleno de amor, positovimos , respeto por nuestra naturaleza y más"
+      },
+      {
+        "autor": "TuCambioEsAhora Prohibido Rendirse",
+        "rating": "5",
+        "texto": "La comida tiene buen sabor y presentación. El sitio es acogedor y el menú es variado. Tengo que volver."
+      },
+      {
+        "autor": "Alfaima Solano (FalaF)",
+        "rating": "5",
+        "texto": "Me encanta este restaurante y vendría mil veces más. El ambiente es súper acogedor. Los platos son deliciosos y no intentan imitar el mundo de la carne sino que son únicos y especiales en si mismos. Entre los platos recomiendo los tallarines verdes. El personal es muy amable, te hacen sentir como si hubieras sido invitado a comer a su casa. Son muy atentos. Los postres son muy ricos, recomiendo en particular la torta de banano."
+      }
+    ],
+    "rating": "4.6"
+  },
+  {
+    "nombre": "Vegetarian restaurant",
+    "categoria": "vegetariana",
+    "direccion": "Cl. 8 #17-23 piso 2",
+    "telefono": "No disponible",
+    "latitud": 4.6010594,
+    "longitud": -74.0861048,
+    "foto": null,
+    "resenas": [
+      {
+        "autor": "Andrew Velez Gaming",
+        "rating": "5",
+        "texto": "El mejor restaurante en todo bogota! Sirven diferente comida cada dia, todo es rico y saludable."
+      },
+      {
+        "autor": "Buen trato y respeto",
+        "rating": "4",
+        "texto": "Es rico"
+      },
+      {
+        "autor": "Robin",
+        "rating": "5",
+        "texto": ""
+      }
+    ],
+    "rating": "4.7"
+  }
+]

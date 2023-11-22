@@ -1,0 +1,641 @@
+[
+  {
+    "nombre": "SABOR COLOMBIANO",
+    "categoria": "colombiana",
+    "direccion": "Cra. 13 #26 - 81",
+    "telefono": "(601) 2432959",
+    "latitud": 4.6118804,
+    "longitud": -74.07203230000002,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFhC2AnS6SnqklYK9P8MMzaalgGMxjev8RmAfkcTR-WRIzR1BehXe4Kznnd46LqFOrttlrM3BgQW-cb8W33xp0NW5xwAxED3Vkekm4os7PI-lmfyyhwzzZuLt__FfOCzEgVoqsgZXnczGkZa8TVHUX5_gfzIdUIUmv45Cn7rpscXcevv&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "Jorge Nieves",
+        "rating": "5",
+        "texto": "Almuerzo tipo buffet con muy buenas características: buen sabor, buen precio, buena cantidad, con el plus de una atención rapida. Las porciones son más que suficientes, con el plus de barra de ensaladas.\nLo único que le baja puntos es la ubicación, pues no es una zona bonita ni muy segura..."
+      },
+      {
+        "autor": "ALFREDO MERA OCHOA",
+        "rating": "5",
+        "texto": "Excelente alternativa de almuerzo tanto corriente como ejecutivo. Tipo Buffet. Buenas porciones. Sazón casero. Precio bastante cómodo para el sector e incluye sopa, seco, jugo, ensalada, postre."
+      },
+      {
+        "autor": "mauricio marin",
+        "rating": "5",
+        "texto": "Rico sabor, variedad menu, ricos jugos, y postres  , todo me gusta, felicitaciones"
+      },
+      {
+        "autor": "Angie Labrador",
+        "rating": "3",
+        "texto": "Tiene una barra de ensalada con gran variedad, puedes escoger dos. El plato viene con sopa y jugo. No me gustó que los acompañantes son fijos, no tienen la amabilidad de cambiartelo, así que si no es de tu gusto, te ofrecen no servirtelo y el plato se ve más pobre"
+      },
+      {
+        "autor": "Andres Jimenez",
+        "rating": "4",
+        "texto": "Buen lugar para almorzar,"
+      }
+    ],
+    "rating": "4.2"
+  },
+  {
+    "nombre": "Restaurante El Balcón Colombiano",
+    "categoria": "colombiana",
+    "direccion": "Bogotá, Bogota",
+    "telefono": "(601) 2433403",
+    "latitud": 4.60044,
+    "longitud": -74.07634999999999,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFhuE8pUX-1vTFRC3698KXFq5NK-SHHpEb_jWSi5Vi2udQ0-Mw34iTGep3CTuKWB_krlKWVbNeF7oOOyb8csdL5PhH0dM2MW0NXTXJCCmKxDga9PbgBGAta7HkGBte7kzyLLStPizKutjdlGUOkytss7lCaYTzyhj9XofyJeCt3yVobB&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "Alexa R",
+        "rating": "2",
+        "texto": "La decoración es lo llamativo, comida regular, sirvieron frío, atención de la mesera regular, atención de la mujer en la caja, ni respondió el saludo, no volveré"
+      },
+      {
+        "autor": "Daissy Corrales",
+        "rating": "5",
+        "texto": "Un lugar único, llevan 51 años prestando su servicio, muy cultural, buena comida y economico"
+      },
+      {
+        "autor": "Jenny Boutellier",
+        "rating": "1",
+        "texto": "servicio muy antipático, pedimos huevos en vez de carne (vegetariano) y se sintió totalmente insultada y se fue y no nos quiso servir más!"
+      },
+      {
+        "autor": "Cristian Camilo Rodriguez Acosta",
+        "rating": "4",
+        "texto": "Lugar cómodo, limpio, de buen ambiente. Calidad en la presentación de los platos y buen sabor"
+      },
+      {
+        "autor": "Paulina Prada",
+        "rating": "5",
+        "texto": "Menú exquisito, precios súper cómodos, sazón delicioso!"
+      }
+    ],
+    "rating": "4.3"
+  },
+  {
+    "nombre": "La Cucharita Colombiana",
+    "categoria": "colombiana",
+    "direccion": "Cra. 7 #23-17",
+    "telefono": "(601) 3421270",
+    "latitud": 4.6093244,
+    "longitud": -74.07046989999999,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFi-X18zaEFxSowoce9yy9BqWfIM0M8tW8gFGzd9NqenAcBQLvljfIvQ49aNp_eYjduzX3afMzEkoB2Sch5Bo--Y63mf7eSd84Xfc_uWP10gkBDGbCQ8sjd8C1U1E7QAK53DwdXxciAZprxN7sLRt3K_xRmLgEFTD9KUF8l2BKVGqLxH&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "ELIZABETH JIMENEZ",
+        "rating": "5",
+        "texto": "La pasta y la lasagna estuvieron muy ricas, la verdad todo se veía muy bonito,limpio  y la comida tenía buen sazón. El equipo de meseras fueron muy amables  y de igual manera muy eficaces a la hora de tomar el pedido. Tenían variedad de pastas, pizzas y bebidas."
+      },
+      {
+        "autor": "Linda Rincon V",
+        "rating": "5",
+        "texto": "He ido a los dos restaurantes tanto la pizzería como el típico, que quedan en la misma calle y los dos ME FACINANA! el típico genial cuando hemos ido en familia los fines de semana y la pizzería brutal para ir con compañeros del trabajo o amigos ☺️☺️☺️\nNo se pierdan de esas pastas que venden en la pizzería y de la trucha o las carnes en el restaurante típico."
+      },
+      {
+        "autor": "Fernando Vega",
+        "rating": "5",
+        "texto": "Este lugar es agradable para visitar cona familia y comer sus diferentes platos, tiene un excelente servicio y un hambiente agradable"
+      },
+      {
+        "autor": "sara saavedra",
+        "rating": "4",
+        "texto": "Vende solo pizza, es muy rica, y a buen precio, probé la vegetariana y estaba súper deliciosa, volveré para probar más. La pizza y los ingredientes frescos."
+      },
+      {
+        "autor": "Priscila Rodriguez",
+        "rating": "2",
+        "texto": "Creo que han bajado la calidad. Pedí una chuleta valluna y casi la mitad en cerdo crudo, tuve que devolverla. También se pidió un mondongo  estaba como sin sabor, y el callo estaba crudo.. Con no tan buen sabor."
+      }
+    ],
+    "rating": "4.2"
+  },
+  {
+    "nombre": "restaurante tipico colombiano",
+    "categoria": "colombiana",
+    "direccion": "Cra. 25 #22C-35",
+    "telefono": "No disponible",
+    "latitud": 4.6192829,
+    "longitud": -74.08116129999999,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFjOhL_uc9ENY8sdMTIWgxIpuS37-fBQZOqidbGqozHm9MAHYSfKs7vMSzHm1OeXK1P1kov-cO0fBLor5fLdK2R-skXSXfrI4e06zL2rzVqNBmYKI9Q0-lHZiNSa6Uk4NKQt2fX3PAK98vj9S6g9-XQp78epGUFrUT6qVzW2VMurJPur&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "yamileth perdomo",
+        "rating": "5",
+        "texto": "Es un restaurante de muy buena calidad exelente servicio me encantó la experiencia de estar en este lugar gracias por su atención ."
+      },
+      {
+        "autor": "Jorge Hernandez",
+        "rating": "5",
+        "texto": "Excelente, súper recomendado, la atención es muy buena y la comida aún mejor."
+      },
+      {
+        "autor": "Caterine Villalba velasquez",
+        "rating": "5",
+        "texto": "Execelente lugar muy buena atención y su comida exquisita"
+      },
+      {
+        "autor": "Jimena Angulo",
+        "rating": "5",
+        "texto": "Fue una experiencia mágica este restaurante, lo recomiendo   al 100 por ciento todo super delicioso y la atención  espectacular 👌"
+      },
+      {
+        "autor": "Alejandro Carvajal",
+        "rating": "5",
+        "texto": "Excelente restaurante, la atención es perfecta. La comida exquisita, quiero volver lo antes posible quede enamorado del lugar"
+      }
+    ],
+    "rating": "4.8"
+  },
+  {
+    "nombre": "Las recetas colombianas",
+    "categoria": "colombiana",
+    "direccion": "Cl. 23 #7-13 Piso 2",
+    "telefono": "(601) 2867397",
+    "latitud": 4.609138699999999,
+    "longitud": -74.0706357,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFhx0uUpH_mUIO7bi38VhfRiGhNPS8HCI3FcJINXrKOqUVbGIzSygpdnv1uEU1WccAUgMdMi62jQoNP_dfWSVf6S9aEfO9O-VZpz5MKTuMS78suACGiAsVELELdTCDQ_1DSOXP51CZwYtjfIlvzxegrXYxGYnsI6gOENU4vKs3dyXzl6&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "Daniel Acosta",
+        "rating": "1",
+        "texto": "Pésimo lugar, comida muy grasosa, la ensalada es solo lechuga, la atención es incipiente, la persona que nos atendió tenia mala actitud, tenia las uñas sucias y le metía los dedos a los platos ... el lugar es sucio, las paredes, antepechos y ventanas están con polvo y en mal estado. No recomendado"
+      },
+      {
+        "autor": "Carlos Pulido",
+        "rating": "5",
+        "texto": "No siempre doy cinco estrellas, este sitio es la comida, es delicioso, buenos platos servidos de manera generosa, típicos y hace que sientas el sazón de de la abuela. Por mejorar las instalaciones, principalmente los baños, pero si can por un buen plato es este el lugar"
+      },
+      {
+        "autor": "JUAN CAMILO RESTREPO VILLAFAÑE",
+        "rating": "3",
+        "texto": "Buena opción para almorzar, recomiendo la mazamorra chiquita y el mondongo, la porción grande si es de buen apetito, el resto de los platos son una exageración que a la vista es desagradable"
+      },
+      {
+        "autor": "Angelica Cediel",
+        "rating": "5",
+        "texto": "La comida super deliciosa y la atención muy amables"
+      },
+      {
+        "autor": "Jossep Suar Hurt",
+        "rating": "3",
+        "texto": "Los platos buenos, lo malo es el impuesto al consumo que cobran adicional y no va incluidos en los menús del restaurante."
+      }
+    ],
+    "rating": "3.8"
+  },
+  {
+    "nombre": "ALBONDIGAS Y AREPAS El Paisa",
+    "categoria": "colombiana",
+    "direccion": "Cl. 8 #19A-94",
+    "telefono": "313 4477926",
+    "latitud": 4.6034178,
+    "longitud": -74.0891545,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFjSnTstLVWbWR_xSKNoXeehzrD6sBB1zrlJ80RktLMRuzufhczj-XIT2eicxL7Lv5PUE9OZLzwLOVv8qcc_JqUXfsW50fMDOBs0T8c5o4BlgIb52xU5ot_1QqLt5bSbf-pvAxktI63eLnc00oOQKElExVhPGqt1kTqdH2dCGAhZHotW&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "Manuel E Sierra I",
+        "rating": "4",
+        "texto": "Buena comida, buena atención, esta ubicado en un sitio muy congestionado y con mucha polución ambiental"
+      },
+      {
+        "autor": "Camil Martin",
+        "rating": "5",
+        "texto": "El calentao paisa de este lugar es la locura . Tienen que visitarlo . Recomendadisimo . La arepa con chorizo santarrosano es de lo mejor . Cocina autóctona paisa . Con mi esposa vamos casi todos los domingos ."
+      },
+      {
+        "autor": "Erick Espitia",
+        "rating": "4",
+        "texto": "Sopas de infarto, deliciosísimos desayunos. Comida exquisita, se nota el esmero por preparar algo que el comensal disfrutará según sus gustos.\nColoco 4 estrellas porque abren un poco tarde y el comercio empieza mucho antes."
+      },
+      {
+        "autor": "emilio palacios",
+        "rating": "5",
+        "texto": "El mejor sitio en bogota para tener un desayuno paisa"
+      },
+      {
+        "autor": "Dilsa Ambrosio",
+        "rating": "5",
+        "texto": "Las arepas, la bandeja paisa y los chorizos son los mejores de la ciudad"
+      }
+    ],
+    "rating": "4.5"
+  },
+  {
+    "nombre": "restaurante la Caserola Paisa",
+    "categoria": "colombiana",
+    "direccion": "Cra. 23 #9a-27",
+    "telefono": "(601) 8009764",
+    "latitud": 4.606461900000001,
+    "longitud": -74.0901377,
+    "foto": null,
+    "resenas": [
+      {
+        "autor": "Yeisson Rubio",
+        "rating": "4",
+        "texto": "Excelente sitio"
+      },
+      {
+        "autor": "María del Carmen Garzón",
+        "rating": "5",
+        "texto": ""
+      },
+      {
+        "autor": "diego aldana",
+        "rating": "5",
+        "texto": ""
+      }
+    ],
+    "rating": "4.7"
+  },
+  {
+    "nombre": "Restaurantes La Parrilla Dorada Sede Centro",
+    "categoria": "colombiana",
+    "direccion": "Cra. 12 #18-52",
+    "telefono": "321 2515846",
+    "latitud": 4.6069645,
+    "longitud": -74.0745544,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFiLCZCAPsGi9IV5gLiZwvv1UmAwJy_v6EoqRMqIkL1VwvwknWsObevUWIAx9sMCLg4jDd1d5kOkKYInREp6-TaiEI6ER9QTLiwl9Ma0JBNBDFwXfNF2gxhcHXuT-aJSTsi_6py9AgqpcO6FADuc830Cst01OVxyZD24VA49MwqEHuwt&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "Andres Meneses",
+        "rating": "5",
+        "texto": "Excelentes platos buenos precios recomiendo los huesos de marrano"
+      },
+      {
+        "autor": "Henry Arias",
+        "rating": "3",
+        "texto": "El mute tiene mucho color y la carne color roja. De mala imagen\n\nLa pipitoria nada que ver con la de chiflas y Bucaramanga. Muy regular.\n\nComi a\nmedias y no lo recomiendo"
+      },
+      {
+        "autor": "JORGE ALBERTO Jimenez",
+        "rating": "5",
+        "texto": "Muy recomendado, el sabor y la presentación de sus platos son excelentes"
+      },
+      {
+        "autor": "Nelson Oswaldo Jimenez Fuquene",
+        "rating": "5",
+        "texto": "Buena atención variedad de carnes y buenos precios"
+      },
+      {
+        "autor": "mario garcia",
+        "rating": "4",
+        "texto": "Me comi un churrasco estaba en buen término, pero la yuca que lo acompañaba muy mala, me la cambiaron  por papa muy buen servicio"
+      }
+    ],
+    "rating": "4.4"
+  },
+  {
+    "nombre": "EMPANADAS GRAN COLOMBIANA",
+    "categoria": "colombiana",
+    "direccion": "Cra. 5 #12b-46",
+    "telefono": "No disponible",
+    "latitud": 4.5992552,
+    "longitud": -74.072265,
+    "foto": null,
+    "resenas": [
+      {
+        "autor": "Mauricio Alvarez Zarate",
+        "rating": "4",
+        "texto": "Ricas, buen precio y surtido"
+      },
+      {
+        "autor": "María Elena Brevé Ferrari",
+        "rating": "5",
+        "texto": "Los mejores buñuelos de Bogota."
+      },
+      {
+        "autor": "Julián Gordillo",
+        "rating": "5",
+        "texto": ""
+      },
+      {
+        "autor": "Santiago Gonzalez",
+        "rating": "5",
+        "texto": ""
+      },
+      {
+        "autor": "Guillermo Ramos Jiménez",
+        "rating": "4",
+        "texto": ""
+      }
+    ],
+    "rating": "4.3"
+  },
+  {
+    "nombre": "Restaurante El Antioqueño",
+    "categoria": "colombiana",
+    "direccion": "Cl. 21 # 6-53 piso 2",
+    "telefono": "321 3243286",
+    "latitud": 4.6068117,
+    "longitud": -74.0707889,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFiJYvt6CUssB-YmpVJne-DVjFK27NWrS7DVnkFMwRZb7_K6Y2akybbm7Frmoj06Mv3NUspoOT0ESx-lOqd3M5zhT73ZePlLItHm0qJKJDgSqJQ9HGUsSbbkP8J5KgJCtGmRsRrmi-gKvYJKD78lv_oswArOj0xuTx9rWZoiX3zoA2ol&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "Leonardo Sierra",
+        "rating": "5",
+        "texto": "Un lugar donde todos los platos son ricos y la atención es excelente. El sancocho de costilla de res es delicioso y recomendado. Los frijoles tienen un sabor antioqueño tradicional."
+      },
+      {
+        "autor": "Sandra Clavijo",
+        "rating": "5",
+        "texto": "Ofrece muy buena comida a buenos precios, me gusta que den la posibilidad de pedir media porción de algunos platos, porque igual son súper grandes. Además la comida llega a la mesa súper rápido.\nLa decoración del lugar es toda muy típica, es un poco oscuro pero no representa ningún problema."
+      },
+      {
+        "autor": "Ruth Vargas",
+        "rating": "5",
+        "texto": "Andaba buscando algo bien Colombiano pa probar en mi visita a Bogota, que mejor que una bandeja paisa, aquí estaba delicioso, totalmente recomendado, seguro volveré a probar mas cositas, ademas la atencion super linda, todos muy amables y no demoraron casi nada 👌🏻"
+      },
+      {
+        "autor": "Julio Enrique Fonseca Garcia",
+        "rating": "5",
+        "texto": "Excelente lugar, la comida es muy generosa y deliciosa.\nEl lugar dónde sirven más rápido en Colombia"
+      },
+      {
+        "autor": "Lino Fúquene",
+        "rating": "4",
+        "texto": "La primera vez que fui, la comida estuvo excelente aunque hay tantas opciones que queda medio perdido. La atención si la sentí un poco distante. Espero volver pronto para probar más platos."
+      }
+    ],
+    "rating": "4.7"
+  },
+  {
+    "nombre": "Restaurante la vegas",
+    "categoria": "colombiana",
+    "direccion": "15, Cl. 14 #10",
+    "telefono": "(601) 5609623",
+    "latitud": 4.6027824,
+    "longitud": -74.0760597,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFiOOc0E4l3qkxtpyhWok0ZG16kPgoTgGvCHgAlAdYStapgnpn8k6JPg5--1uOBGlMbucueLaARzvNz1B2PqBs0VZJx0FEI_HeSbhEK35Ikhaclyq8RCC_AEBzfXqSINNu8c2SQifRwBuUoVnna7zpPi7hnpYRb_Nmxjy5s2ayzAgpwl&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "Jonathan Andrés Moncada Contreras",
+        "rating": "4",
+        "texto": "Linaod sitio para relajarce"
+      },
+      {
+        "autor": "Finanzas Cuánticas",
+        "rating": "5",
+        "texto": "Buena comida, buen servicio y buen ambiente."
+      },
+      {
+        "autor": "Jeimy Montoa",
+        "rating": "2",
+        "texto": ""
+      }
+    ],
+    "rating": "3.7"
+  },
+  {
+    "nombre": "sopas tipicas y parrilla sabor a colombia",
+    "categoria": "colombiana",
+    "direccion": "Cra. 21 #8-42",
+    "telefono": "No disponible",
+    "latitud": 4.604186599999999,
+    "longitud": -74.0897412,
+    "foto": null,
+    "resenas": [
+      {
+        "autor": "Ronald Sanchez",
+        "rating": "4",
+        "texto": ""
+      }
+    ],
+    "rating": "4"
+  },
+  {
+    "nombre": "RESTAURANTE LA FRIJOLADA ANTIQUEÑA",
+    "categoria": "colombiana",
+    "direccion": "Cra. 22 #12-07",
+    "telefono": "(601) 5602152",
+    "latitud": 4.6080328,
+    "longitud": -74.088191,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFhqVFu6e_OD2eupO-kKxhk1czkKXb7HUpmZdfm-FbagaQekKgUIt8r6OpKsue8ep5hHVspLrcU0rPVoyJ1ASvs6P1W10JGxfarchOhIKLG-fKoAU_7qBswM2XQLUwkxg82UU0uUEhXIw-KOc79GJwnxGmqXd040xNIEpwzMQ-vXodNV&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "Fabian Camargo “Pi_kachu97”",
+        "rating": "4",
+        "texto": "Muy buena la frijolada muy rica buena porción bueno el sabor y muy buena atención!"
+      },
+      {
+        "autor": "Jose Ruben Benitez Valderrama",
+        "rating": "4",
+        "texto": "Deliciosa la comida, buen servicio y ambiente familiar 😋☕"
+      },
+      {
+        "autor": "juan pablo bejarano orozco",
+        "rating": "5",
+        "texto": "Muy buena atención y los platos especiales son muy buenos, deliciosos y económicos."
+      },
+      {
+        "autor": "juan carlos ruiz",
+        "rating": "5",
+        "texto": "Excelente lugar para degustar una buena comida"
+      },
+      {
+        "autor": "Camilo noreña",
+        "rating": "5",
+        "texto": "Platos con muy buen sabor, muy buen sitio!!"
+      }
+    ],
+    "rating": "4.6"
+  },
+  {
+    "nombre": "restaurante sabor paisa",
+    "categoria": "colombiana",
+    "direccion": "47 Local 112, Cl. 17 #10",
+    "telefono": "314 3414621",
+    "latitud": 4.6055987,
+    "longitud": -74.07561609999999,
+    "foto": null,
+    "resenas": [
+      {
+        "autor": "LUIS CARLOS MENDEZ BARRETO",
+        "rating": "5",
+        "texto": "Excelente"
+      },
+      {
+        "autor": "Isaac Asimov",
+        "rating": "4",
+        "texto": ""
+      },
+      {
+        "autor": "WILSON HERNAN OROZCO RAMIREZ",
+        "rating": "4",
+        "texto": ""
+      }
+    ],
+    "rating": "4.3"
+  },
+  {
+    "nombre": "Colombiana Panaderia Y cafeteria",
+    "categoria": "colombiana",
+    "direccion": "Bogotá, Bogota",
+    "telefono": "No disponible",
+    "latitud": 4.615542599999999,
+    "longitud": -74.07989599999999,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFjCI-4DrZSPucGT_7CSwIRsy5xK8PoeeAzVsCcx4EcaMWLFaglI5zsNnOBI1ZzD0O17WiHpC-FRpt2kL_W8yV6KX22Wk5WqbmMbOhw3IU2Gl8HPtr2Aijcvfy04c9QMuN4fsjdZN26_A2mPjIgCKn2bO1ON2Kmia08hIsZxmtGbczJm&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [],
+    "rating": "No disponible"
+  },
+  {
+    "nombre": "Restaurante Todo Rico",
+    "categoria": "colombiana",
+    "direccion": "73, Cra. 25 #22A",
+    "telefono": "(601) 3408009",
+    "latitud": 4.618219799999999,
+    "longitud": -74.0824703,
+    "foto": null,
+    "resenas": [
+      {
+        "autor": "Ramiro Alfonso Càrdenas Sànchez",
+        "rating": "5",
+        "texto": "Muy rico recomendado"
+      },
+      {
+        "autor": "CLAUDIA TERESA ROJAS ROJAS",
+        "rating": "5",
+        "texto": ""
+      },
+      {
+        "autor": "Gustavo Mejia",
+        "rating": "5",
+        "texto": ""
+      }
+    ],
+    "rating": "5"
+  },
+  {
+    "nombre": "Restaurante La Villa",
+    "categoria": "colombiana",
+    "direccion": "00, Cra. 13 #24",
+    "telefono": "311 4825332",
+    "latitud": 4.611211199999999,
+    "longitud": -74.07253260000002,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFjRKeXH56jBuyD3RcgFE0gpSEAO3hmUnhX94EmpwNJxZWSW_VPqb1VU2ZuyspcYmoD3tPOKVBp2Rvuo-WJ6MMiPQMD9eAm-s4wdxSq3lEL9tQaJ7K0ausg2OSiz0BPamxdirRXUt2fwBpWn5FsokXgDWHTLALURzTL0NR89W0V2DPgM&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "Alexander Muñoz",
+        "rating": "4",
+        "texto": "Muy buen menú , muy buen sabor , de muy buena atención, y económico"
+      },
+      {
+        "autor": "dalia carilina",
+        "rating": "5",
+        "texto": "Buen menú y buena atención y excelentes precios."
+      },
+      {
+        "autor": "ANDRÉS MIRANDA",
+        "rating": "5",
+        "texto": "Excelente servicio y la comida deliciosa a buenos precios"
+      },
+      {
+        "autor": "Miguel Medellín",
+        "rating": "5",
+        "texto": "Excelente atención y servicio, variedad en el menú y delicioso."
+      },
+      {
+        "autor": "Luz Dary González Villate",
+        "rating": "5",
+        "texto": "Atendido por sus propietarios. Restaurante típico colombiano. Desayunos exquisitos. Autentica arepa paisa. Almuerzos deliciosos. Excelente atención. La sazón es inmejorable. Cocina casera y con mucho amor. Súper juiciosos con los protocolos de bioseguridad. Deli. Deli. Deli."
+      }
+    ],
+    "rating": "4.4"
+  },
+  {
+    "nombre": "bar restaurante colombia and beer river",
+    "categoria": "colombiana",
+    "direccion": "Cra. 21 #8-60",
+    "telefono": "No disponible",
+    "latitud": 4.604391399999999,
+    "longitud": -74.0896125,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFgTqFlRgM3JIRhLr0Vn1bYE1_fMeKtiaDFHikh3Q1mmuXb_CZ8mhK7XjU1ffJ5pFqf2TSaR6TRyodWyLQ-O_iziRj9bMPBr5QhR0UR_sgjMYEzpe0shm1c8QSw_Ssv0j042kJMiy2nkhCLsXxVRyVV1VrwEe1KcedhkVfvJvIjnuT6o&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "Jairo Hernandez",
+        "rating": "4",
+        "texto": "Buen menú"
+      },
+      {
+        "autor": "Natalia Restrepo",
+        "rating": "3",
+        "texto": ""
+      },
+      {
+        "autor": "Julie Andrea Garzon Valencia",
+        "rating": "5",
+        "texto": ""
+      },
+      {
+        "autor": "Yuri Angelica Caballero Rios",
+        "rating": "5",
+        "texto": ""
+      },
+      {
+        "autor": "Yezid",
+        "rating": "4",
+        "texto": ""
+      }
+    ],
+    "rating": "4.4"
+  },
+  {
+    "nombre": "RESTAURANTE GUSTA MAS",
+    "categoria": "colombiana",
+    "direccion": "Cl. 16 #12-55",
+    "telefono": "(601) 2846123",
+    "latitud": 4.6050923,
+    "longitud": -74.0767801,
+    "foto": null,
+    "resenas": [
+      {
+        "autor": "Juan Carlos Castellanos",
+        "rating": "5",
+        "texto": ""
+      },
+      {
+        "autor": "Daniel Felipe Arias Medina",
+        "rating": "5",
+        "texto": ""
+      }
+    ],
+    "rating": "5"
+  },
+  {
+    "nombre": "Restaurante Jhadai",
+    "categoria": "colombiana",
+    "direccion": "Cl. 24 #12 - 60",
+    "telefono": "(601) 3375465",
+    "latitud": 4.611257699999999,
+    "longitud": -74.0723189,
+    "foto": null,
+    "resenas": [
+      {
+        "autor": "luisa fernanda milanes montoya",
+        "rating": "5",
+        "texto": "Todo para motos. Accesorios, ropa, repuestos, etc."
+      },
+      {
+        "autor": "pedro vargas",
+        "rating": "5",
+        "texto": "Comida típica - deliciosa"
+      },
+      {
+        "autor": "yoused ordoñez",
+        "rating": "5",
+        "texto": ""
+      },
+      {
+        "autor": "Nicolas Buitrago",
+        "rating": "5",
+        "texto": ""
+      },
+      {
+        "autor": "Diana Machuca",
+        "rating": "5",
+        "texto": ""
+      }
+    ],
+    "rating": "4.5"
+  }
+]

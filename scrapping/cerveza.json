@@ -1,0 +1,447 @@
+[
+  {
+    "nombre": "Beer Mall Plaza NQS",
+    "categoria": "cerveza",
+    "direccion": "Calle 19 # 28-80. Piso 3, local C01, Calima Centro Comercial",
+    "telefono": "(601) 7451857 ext. 801",
+    "latitud": 4.617713999999999,
+    "longitud": -74.086265,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFhszuP_5zoRdN3A9hJL92Z90WxVudEpwZE1CRV4VGOnEMbYj8oGXXVeCdUKF5FGzA7BtFK4-6mDSGVaC_2bzdVaIhOQUKcG_P8WeT4aayNLeKNddGzN9AzDvKAQee37t2nY4f5oQR4e5O5sJ1awgDMvwMIW-PEjxwo2phAcdrJ2jAZS&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "Adolfo Tarazona",
+        "rating": "4",
+        "texto": "Buen lugar para compartir unas cervezas y una comida suave con tus amigos, agradable ambiente y bandas en vivo."
+      },
+      {
+        "autor": "Juan Patarroyo",
+        "rating": "4",
+        "texto": "Es un buen lugar, la música en vivo, lastimosamente no es un lugar agradable para hablar con amigos, pareja o familia, debido a la música tan alta.\nLos precios son un poco costosos pero la atención es buena."
+      },
+      {
+        "autor": "L",
+        "rating": "4",
+        "texto": "Recomiendo mucho la cerveza Rosé, deliciosa! Tienen otras muy buenas también.\nTe prestan diversos juegos de mesa para que te diviertas. El servicio excelente. Lo único es que la música la ponen demasiado alta."
+      },
+      {
+        "autor": "Mauricio Nassar",
+        "rating": "5",
+        "texto": "Tienen de las mejores alitas y costillas de cerdo del mundo mundial!! Bañadas en salsa de cerveza roja ligeramente picante, son una delicia y acompañadas con alguna de cerveza de la gran variedad que tienen, se vuelve un plan perfecto!!"
+      },
+      {
+        "autor": "Leonardo “Malacay” Suárez Aranda",
+        "rating": "4",
+        "texto": "Un gran lugar. Una carta muy variada no sólo en cervezas si no también en otro tipo de bebidas alcohólicas pero claro este sitio es cervecero. Yo recomiendo las rubias pero al igual que con los colores cada quien tiene su preferida y acá hay variedad para probar. Los nachos para acompañar la cerveza son un hit. El servicio es excelente, la música está muy bien buena selección y a un volumen moderado."
+      }
+    ],
+    "rating": "4.5"
+  },
+  {
+    "nombre": "bar restaurante colombia and beer river",
+    "categoria": "cerveza",
+    "direccion": "Cra. 21 #8-60",
+    "telefono": "No disponible",
+    "latitud": 4.604391399999999,
+    "longitud": -74.0896125,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFi6m3rZ5vxmuudjwHAmJIlc4tJAz6pbpbtsC59t93z3Z0uo-mFJQo1KFX2dAtpKLr29PyBnfbKeMv9wGxnwUk6v7tddvBlAQCRu7T51LtPQ9w3jCFaxCQW9GzHfUQGRO11iLn6Hw4ZrSWoWEiqEh1_YpMxTlAco7kvAYjkwgp34qQt6&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "Jairo Hernandez",
+        "rating": "4",
+        "texto": "Buen menú"
+      },
+      {
+        "autor": "Natalia Restrepo",
+        "rating": "3",
+        "texto": ""
+      },
+      {
+        "autor": "Julie Andrea Garzon Valencia",
+        "rating": "5",
+        "texto": ""
+      },
+      {
+        "autor": "Yuri Angelica Caballero Rios",
+        "rating": "5",
+        "texto": ""
+      },
+      {
+        "autor": "Yezid",
+        "rating": "4",
+        "texto": ""
+      }
+    ],
+    "rating": "4.4"
+  },
+  {
+    "nombre": "CERVEZA AGUILA LUNA PARK",
+    "categoria": "cerveza",
+    "direccion": "Cl. 12d Bis #4-98",
+    "telefono": "No disponible",
+    "latitud": 4.5988218,
+    "longitud": -74.0725181,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFgpPer-3d5n_HVEcfB8b1Xg_C8C9yz2wTDJvEEbQwfPidBi71lcDt8hT51slOLTWSyxtGEoe0GNmDKdhMKf_tJvDzOKZSKNXGuaP_6bi3a-BiYlSEAQaV_NCaVyS0wldwg0SAlMMqEMap0MQD_E-seUcX3XpunDv2JZ-wyZM30FhC9t&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "Johans Niño",
+        "rating": "5",
+        "texto": "Aunque es pequeño, la pola es barata y las empanadas son ricas"
+      },
+      {
+        "autor": "Jhon Fredy Sabogal",
+        "rating": "5",
+        "texto": "Aprendi muchas kosas d la vida, tiene kasi 60 años de existir bajo el mismo dueño!"
+      },
+      {
+        "autor": "Edwin Ordoñez",
+        "rating": "5",
+        "texto": "Buena experiencia"
+      },
+      {
+        "autor": "luis alejandro florez rincon",
+        "rating": "4",
+        "texto": "Agradable"
+      },
+      {
+        "autor": "Angel Salazar",
+        "rating": "3",
+        "texto": "Lugar"
+      }
+    ],
+    "rating": "4.3"
+  },
+  {
+    "nombre": "Terraza Gourmet Bar Cerveceria",
+    "categoria": "cerveza",
+    "direccion": "Cl. 19 #6 29",
+    "telefono": "No disponible",
+    "latitud": 4.6047628,
+    "longitud": -74.07108629999999,
+    "foto": null,
+    "resenas": [],
+    "rating": "No disponible"
+  },
+  {
+    "nombre": "Ascanio Restaurante -Steck And Beer",
+    "categoria": "cerveza",
+    "direccion": "Av. Cdad. de Lima #28-80",
+    "telefono": "No disponible",
+    "latitud": 4.6173401,
+    "longitud": -74.08626319999999,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFiyjXuhopg6A8TNiA4RkUrC7HiMMzAD1wu44htI4-0QVpp3PmuDakYB4oTYtuS_N_JJx_ivfZfJd-Jr8YWSTkAWCv0GRglNUjCVtpfAcBVlGcaSTIdnK00hfeLUhI16hL575T2DZtHXsjdX2rUMK8k9Q63EdR8RO-dqvL0_2iMrATyL&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "Milthon Macias",
+        "rating": "4",
+        "texto": "Me pareció  buen sitio,  he ido dos veces  y he pedido almuerzo  de menú,  nos ha costado  34.744 para dos personas, la publicidad promociona a 15900 y sube porque pagas el ipoconsumo. Pero no es tanto en cantidad  pero la calidad estuvo bien, no nos sentimos  fastidiados  por la petición  de dar propinas....."
+      },
+      {
+        "autor": "Sebastian Caicedo",
+        "rating": "3",
+        "texto": "El plato fuerte (parrilla) estuvo bueno sin embargo no contaba con ensalada. La Morcilla que pedí como entrada no fue agradable ni al gusto ni a la vista.\nLas bebidas fueron traídas con prontitud. El lugar no cuenta con baño propio."
+      },
+      {
+        "autor": "Francisco Rojas",
+        "rating": "1",
+        "texto": "Muy pésimo servicio, ofrecen mamona y ni siquiera tienen prendida la parrilla, pedí una mamona y me salieron con una carne pálida a la plancha... se demoran una eternidad, pedí la cuenta y me cobraron un plato q no pedí, si es un restaurante q ofrece un servicio y no lo pueden cumplir no deberían abrir, pésimo pésimo pésimo"
+      },
+      {
+        "autor": "Roberto José Páez Salgado",
+        "rating": "4",
+        "texto": "De casualidad terminé comiendo en éste establecimiento. Había música en vivo. El ambiente era agradable. No entiendo porque la mala calificación, me atendieron amablemente. Los precios son moderados y la comida estuvo buena."
+      },
+      {
+        "autor": "Juan Gil",
+        "rating": "5",
+        "texto": "Excelente servicio comida muy bien presentada sabores característicos y una gran variedad de platos muy rico para compartir en familia recomendadisimo"
+      }
+    ],
+    "rating": "4.4"
+  },
+  {
+    "nombre": "Restaurante Bar Capelis",
+    "categoria": "cerveza",
+    "direccion": "Av Jimenez de Quesada #34",
+    "telefono": "(601) 3410368",
+    "latitud": 4.601096099999999,
+    "longitud": -74.07580779999999,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFhF-aTpuLF1BoM6zrRpz0nCqLZp4sbOso5nPx1j2w9oDIWdBtEkf3xRbR45nmiwhdedKjHfuW8a0bVniWnUinJo9x9K5xkhfDpTNKrxScPhz2AMomI1wBunH-oVYdoHITWpu9QbRmKtegyNNE8UxlnVvmhREveGX_5OdHP7W4uMCiw&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "Paula alvarado",
+        "rating": "5",
+        "texto": "Es el mejor negocio de va de en la vida ademas es restaurante y es deliciosob"
+      },
+      {
+        "autor": "Mario Camargo",
+        "rating": "3",
+        "texto": "Especial para un café"
+      },
+      {
+        "autor": "Dayanna Andrea Cortes Ortiz",
+        "rating": "4",
+        "texto": "Delicioso!"
+      },
+      {
+        "autor": "Jorge Leonardo Amórtegui Morales",
+        "rating": "5",
+        "texto": "Excelente sitio"
+      },
+      {
+        "autor": "Christian leonardo Aljure Ospina",
+        "rating": "5",
+        "texto": "Buena la comida"
+      }
+    ],
+    "rating": "4.1"
+  },
+  {
+    "nombre": "Cervecería Germania",
+    "categoria": "cerveza",
+    "direccion": "Av Jimenez de Quesada #4-30, Santa Fé",
+    "telefono": "(601) 7561128",
+    "latitud": 4.600864,
+    "longitud": -74.07072,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFi4oJTek8IUyWrZO8KujgA9-yjwUjAZsrMOeu3oP4WLzjPJ3gZcxQCt1XMBvASXwJpJfwxiviV-T3x4ct3wgWxFE2EwtkWipcEGQx8na-VeboGRR0TGjy0yOokca5wM0ymE4-yC7xyxNgloLhUq5k6EVNNELMzdms7GtAt2i_F4Zkft&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "Laura Pinto",
+        "rating": "5",
+        "texto": "Recibí la mejor atención. Increíble servicio de la señorita Geraldine. Mis felicitaciones."
+      },
+      {
+        "autor": "Tatiana Florez",
+        "rating": "5",
+        "texto": "Buen lugar, cerveza Germánia buena."
+      },
+      {
+        "autor": "Berny Silberwasser",
+        "rating": "5",
+        "texto": ""
+      },
+      {
+        "autor": "Paula Hernandez",
+        "rating": "5",
+        "texto": ""
+      },
+      {
+        "autor": "Maria Valentina Velasquez Franco",
+        "rating": "5",
+        "texto": ""
+      }
+    ],
+    "rating": "5"
+  },
+  {
+    "nombre": "Irati Barra Restaurante",
+    "categoria": "cerveza",
+    "direccion": "Mallplaza NQS, Cl. 19 #28",
+    "telefono": "321 2043283",
+    "latitud": 4.6189281,
+    "longitud": -74.0869458,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFhDN7d85mJimrV_y6x2RPLBLwG8wzq58OvXBPRS2-uc8b1_rqYU3wAGFHH-7Fqt-U9N-m2sq_LkRlqtIl2XdS00uIFhueGyjj9TDNjC34ux_c8S7ACKl0qp3fAfCGW8YGzVMRDagC060r4iIvw78wuG-KJRTcH-BHCyOEUpyE4FPYwE&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "Elkin Andres",
+        "rating": "5",
+        "texto": "Realmente es un lugar para volver, ya que Los cócteles y la comida son muy deliciosos. El restaurante se encuentra en la plazoleta de comidas de un centro comercial. Esta plazoleta no es nada convencional, tiene amplios espacios, es muy temática y el restaurante en especial tiene un gran espacio.\n\nEl servicio es muy efectivo y amable."
+      },
+      {
+        "autor": "Iván Pinzón Amaya (Abastecimiento)",
+        "rating": "5",
+        "texto": "En el centro comercial Mall Plaza cocteles tradicionales y de autor. Excelente atención . Pregunten por Jessica"
+      },
+      {
+        "autor": "Yeya Cuéllar",
+        "rating": "3",
+        "texto": "La entrada de chicharrón muy mala, mala porción para el precio y las alitas muy insípidas. El servicio es bueno. Atienden rápido pero esas entradas muy tristes para el costo. La cerveza es buena."
+      },
+      {
+        "autor": "Carlos Velasco",
+        "rating": "2",
+        "texto": "La relación calidad precio no es nada coherente, las alas son súper desabridas y las porciones muy poco generosas, lo único rescatable es la coctelería."
+      },
+      {
+        "autor": "Mauricio Marles",
+        "rating": "5",
+        "texto": "Que gran descubrimiento, comida deliciosisima y comida aún mejor. Si busca un lugar con comida de primerísima calidad y sabores artesanales, este es el lugar, adicional unos cócteles de ataque, cerveza artesanal y una orientación al detalle del cliente y hacerlo sentir especial... Recomendadisimo 100%"
+      }
+    ],
+    "rating": "4.4"
+  },
+  {
+    "nombre": "Bar Restaurante la Union",
+    "categoria": "cerveza",
+    "direccion": "17 2do Piso, Cl. 17 #10",
+    "telefono": "(601) 3420349",
+    "latitud": 4.6055739,
+    "longitud": -74.075553,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFgKExsqCIXeZxu22z_MYUwNojEmoiGXrRkBNhsf6VFk7v8cR32J3P51yxXzBjdCD4WArI2QHVXI37aQz5_8QtB0hz9rrub3JCjmevPKIxYQMgA54YyMlqw_PMfNW8YfIIMwxB2nYyd3rS4xwcYMoRIDI1Y7MlbZ3dRtu23UXrLjkydC&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "Alejandro Castillo",
+        "rating": "3",
+        "texto": ""
+      },
+      {
+        "autor": "RICHARD ESCOBAR",
+        "rating": "2",
+        "texto": ""
+      },
+      {
+        "autor": "Danny Rojas Acosta",
+        "rating": "5",
+        "texto": ""
+      }
+    ],
+    "rating": "3.3"
+  },
+  {
+    "nombre": "Bar Restaurante La Liga",
+    "categoria": "cerveza",
+    "direccion": "Cra. 11 #11-25",
+    "telefono": "3365083",
+    "latitud": 4.6009871,
+    "longitud": -74.0785843,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFjhfKRr3NOhZgtWTbFXhZmWfnDwttlqVxR8FjuLbFla2fZGJztGCYxKn_KPiBJ5UyXaQtMTD5LZWSvA1UTfeDdo5LSIV0amSbsHoD9c9Be5KyK4IBO1D8fYz7n_D1NBMfQ4HgHWc37ifEPVdq0hti9ms-mUAjRj9et0E7jhFDZvIVZs&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "Jonas Gutiérrez Gutiérrez",
+        "rating": "4",
+        "texto": "Les comento este maravilloso lugar ya no existe según mi informaron que hace más de un año que fue cerrado 🔐."
+      },
+      {
+        "autor": "Iris Zamudio",
+        "rating": "5",
+        "texto": "Fui hace algún tiempo, la comida es muy rica y la atención es excelente. Muy bonito, lo recomiendo bastante."
+      },
+      {
+        "autor": "Claris Prada",
+        "rating": "1",
+        "texto": "Mi experiencia fue de 5ta.... Empezando por la mesera....lo digo porque te discute así tu tengas la razón como cliente.....terminando por los baños... Les cuento......pésima atención....tuve que repetirle 5 veces a la mesera que me cambien un jugo por una limonada.....cual es lo confuso de esta petición?...luego la sopa de pasta con frijoles? y huesos de pollo.....que parecían venidos de las sobras de otro plato.... Y no contentos fría..mi mm la cambio 2 veces ....y de mal en peor....después que la carne era churrasco....me la trajeron fria dura y mas flaca que parecía una hostia....la barra de ensaladas no tenia tomate ni limón ni nada y la vinagreta era pura agua....y no llenan los recipientes de ensaladas...es decir eran la una de la tarde... y ya uno come sobras y toca raspar los recipientes metalicos....la papaya del postre duraaaaa y amarga....y para terminar el baño del segundo piso es asqueroso, lleno de papeles, orinado, y mixto y el piso ni hablar y el olor inmundo.....ojala les selle sanidad...no pueden hacer unos baños decentes ?que asco esa papelera.....y uno se baña las manos al lado de las mesas donde los otros están comiendo....yo fui por recomendación de un programa de televisión....los del barrio. De Cyti tv.....pero nada que ver....he viajado mucho , por varios países ... Y comido en sitios deliciosos aquí en Bogota.......y este sitio es de los mas decepcionantes en los que he estado....fatal...no lo recomiendo en lo absoluto ...lo único bonito es la casa.....no todo lo que brilla es oro..."
+      },
+      {
+        "autor": "javier guarin",
+        "rating": "4",
+        "texto": "Mi experiencia fue hace rato como 3 años y era muy buen sitio para almorzar la atención era muy buena y además daban postre, no se ahora como sea el servicio."
+      },
+      {
+        "autor": "Andres Cuellar",
+        "rating": "5",
+        "texto": "Un excelente lugar, agradable y tranquilo, muy buen menú."
+      }
+    ],
+    "rating": "4.2"
+  },
+  {
+    "nombre": "Alma Restaurante Bar",
+    "categoria": "cerveza",
+    "direccion": "Cra. 7 #12C-36",
+    "telefono": "322 9380667",
+    "latitud": 4.6009388,
+    "longitud": -74.07359009999999,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFhgGWW_ppHk23zBBFulnxCKjSmODnxAfrYDNh079bjd48GzMfcqeGFYJfq6jFeOVsmdXLJed1PfKfuanpaQpQps-3L2TvHZZhqQ9O1m5vqu30LQgYmAs3qLiu0U-8X2TB--HjyqNYGW2mUhgbfWLfXzRfAHX2J2c4p2i3QucQQOEFc1&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "EILEN GERALDINE GONZALEZ FAJARDO",
+        "rating": "5",
+        "texto": "Me encanta el lugar, su menú es realmente atractivo y el ambiente es super"
+      },
+      {
+        "autor": "Juan Vivas",
+        "rating": "5",
+        "texto": "Excelente comida muy buena ubicación la atención fue excelente lo recomiendo y regresaré."
+      },
+      {
+        "autor": "Elsa Maria Polo Cuello",
+        "rating": "5",
+        "texto": "Recomendado 100000%, la comida y el servicio fueron divinos"
+      },
+      {
+        "autor": "Camilo Bejarano",
+        "rating": "5",
+        "texto": "Me encanta el lugar, su menú es realmente atractivo y el ambiente es increible."
+      },
+      {
+        "autor": "Rafael Eduardo Martinez Montes",
+        "rating": "5",
+        "texto": "Excelente lugar para compartir en familia"
+      }
+    ],
+    "rating": "4.6"
+  },
+  {
+    "nombre": "Restaurante Bar la Barra",
+    "categoria": "cerveza",
+    "direccion": "Cra. 9 #16 26",
+    "telefono": "(601) 4323941",
+    "latitud": 4.6038619,
+    "longitud": -74.0743925,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFhHsHlD8XkNYjVopTO-RwL_cyTEJssXIlPUNVC5_7gYnNTtpwPykZuapJiGgFmNiU9SkaGR-XVB7lvFkhcEi9avIJ0cif7e-GCB7cSTx2pPwaNKdwLz7SDyuCNIse7aEGHDfGx-Yooa1SA7h0dCoWtRsW52sae52-nC8k5enpRMDZ_p&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "Mario Andrés Camargo Torres",
+        "rating": "5",
+        "texto": "Hace rato no encontraba un sitio BBB para almorzar en el centro de Bogotá. Rica comida y buena atención."
+      },
+      {
+        "autor": "Javier “Kewöis” Escamilla",
+        "rating": "5",
+        "texto": "Buena atención y buena comida."
+      },
+      {
+        "autor": "Alejandro Armero Cano",
+        "rating": "5",
+        "texto": "Muy buena atención, el servicio es muy bueno, y la comida es muy buena!!"
+      },
+      {
+        "autor": "Asdrubal Blue DBS",
+        "rating": "3",
+        "texto": "Muy buen lugar para almuerzo de paso en el centro"
+      },
+      {
+        "autor": "Alexander RC",
+        "rating": "5",
+        "texto": "Excelente lugar .. el churrasco delicioso."
+      }
+    ],
+    "rating": "4.7"
+  },
+  {
+    "nombre": "Restaurante Bar Rincon De Yaz",
+    "categoria": "cerveza",
+    "direccion": "Bogotá, Bogota",
+    "telefono": "322 2919051",
+    "latitud": 4.6164796,
+    "longitud": -74.0798561,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFhkbgfM-snynJyosKMvBIyKzFTa7R0HDlUth_KeNzmS_oEJZ4DKCPtcFZdyxotoifVDwlGYN4SZap8xnPOGePUU22CrIOEcNdQ_dgvP852SNbxyseKPRHqDySAcLTPnHiu6pN9c8eEEmxr0aSmgJHmFjuBkOcBGlyFOhf_-3WXUPCI&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "Juan Carlos Herrera Peña",
+        "rating": "5",
+        "texto": "muy bueno excelente servicio calidad en la comida"
+      },
+      {
+        "autor": "Drei Hope",
+        "rating": "4",
+        "texto": "Muy buen restaurante con almuerzo corriente del sector, sazón costeña atendido por su propietaria y familia."
+      },
+      {
+        "autor": "Leidy Duque",
+        "rating": "5",
+        "texto": "Miy rico los almuerzoa"
+      },
+      {
+        "autor": "Alejandra Borda",
+        "rating": "5",
+        "texto": "Delicioso sazón y precios justos."
+      },
+      {
+        "autor": "deysi Yanez",
+        "rating": "5",
+        "texto": "Todos los viernes mojarra muy 😋 rica y mucho más"
+      }
+    ],
+    "rating": "4.9"
+  }
+]

@@ -1,0 +1,527 @@
+[
+  {
+    "nombre": "PIZZA PIZZA Centro Jimenez",
+    "categoria": "pizza",
+    "direccion": "Cra. 7 #14-39, Santa Fé",
+    "telefono": "(601) 6260000",
+    "latitud": 4.6016004,
+    "longitud": -74.07312130000001,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFhMVl7bz3gJfKcEG8FyIvpTZ49xFrL4t9c0ba6fvNy_dD6mGXUntKKj8DpCfGpJ_JcZM5mhxz4Ur3bf6p6E-YNIRzSvn4MiLZLxpGyHVpwgwayeHqa3GTdnQBkHfj2JtDKGmDHCaWdZsloFjQfxCzQeielUd1s0S46WXHBPrWvoZTse&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "Luis Gerardo Martínez Díaz",
+        "rating": "1",
+        "texto": "Sin comentarios"
+      },
+      {
+        "autor": "Allan Gutierrez",
+        "rating": "5",
+        "texto": "Exquisito"
+      },
+      {
+        "autor": "WILDGEN GARCIA",
+        "rating": "5",
+        "texto": "Bueno"
+      },
+      {
+        "autor": "MArisol Marroquin Sanchez",
+        "rating": "3",
+        "texto": ""
+      },
+      {
+        "autor": "CRISTOFER PALOMINO DIAZ",
+        "rating": "5",
+        "texto": ""
+      }
+    ],
+    "rating": "4.2"
+  },
+  {
+    "nombre": "Pizza Mía",
+    "categoria": "pizza",
+    "direccion": "Cra. 9 #16 - 92",
+    "telefono": "313 2070961",
+    "latitud": 4.604474199999999,
+    "longitud": -74.0741271,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFgzQxcTX1rWP7VxY5mYWGqZ2vA-eX8Cf3zab6BQw7U3Ga3Uwd_LEW622VaFKuTGg49p8sfb7jRB9ZIUlP0aSF7HSCnGYMvgYDanQ6a0fgX1GJrXeRABYy8-z6S6I-luoWCVWU_D7F2kFY4GIkRBD-cnzlG3hgydQfPE7aq_dN8riv_j&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "Gómez E.",
+        "rating": "3",
+        "texto": "Los Canelones con carne no son tan buenos, la carne es demasiado triturada parece una masa (apariencia de atún) y no sabe a carne.\nLa limonada muy dulce."
+      },
+      {
+        "autor": "Yohjan Alemán",
+        "rating": "1",
+        "texto": "Hace años no venía a Bogotá, quise ir a Pizza Mia porque lo conozco desde que era niño. Salí totalmente decepcionado, la comida no sabe a nada, las lasagnas estaban frias, los raviolis no tienen nada por dentro, la atención es malisima, la cajera una señora rubia, super grosera, altanera y desafiante. El comedor estaba cochino, las mesas pegajosas, las limpiaron y quedaron oliendo a trapo. estando ahí le envié un plato de pasta a la oficina de mi hermana el cual le salió con CUCARACHA. (cuando me enteré de eso yo ya habia salido del lugar)\nDe verdad no vale la pena ni hacer el reclamo, al parecer cambio de dueños y los nuevos dueños no tienen ni idea de llevar un restaurante.\nEl personal estaba sucio, una señora en la cocina sin gorro, toda despeinada.\nGas ese sitio\nNo lo recomiendo para nada. No vayan!\np.d: la pizza es un calao"
+      },
+      {
+        "autor": "MIGUEL ANGEL VARGAS PENAGOS",
+        "rating": "4",
+        "texto": "Es un lugar muy concurrido del centro donde sirven pizzas, pastas, lasañas y osobucos muy ricos con precios entre los 10 mil a los 25 mil pesos"
+      },
+      {
+        "autor": "Jorge Vargas",
+        "rating": "5",
+        "texto": "Excelentes platos a la Italiana. Lo mejor del Centro de Bogotá a un muy buen precio"
+      },
+      {
+        "autor": "Angélica Jiménez",
+        "rating": "5",
+        "texto": "Es un Restaurante de la antigua Bogotá con comida italiana DELICIOSO, mis papá me lo enseñó y yo traje a mi esposo cuando éramos novios y ahora venimos con nuestros hijos. Imperdible."
+      }
+    ],
+    "rating": "4.4"
+  },
+  {
+    "nombre": "Viva la pizza",
+    "categoria": "pizza",
+    "direccion": "Ave Cra 30 #19",
+    "telefono": "(601) 3786574",
+    "latitud": 4.6186661,
+    "longitud": -74.0863416,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFh1UovBP4L_1ICo_LC5lk-S8nzcpbIWMAXWE_d9C-vDGZ8TyiayxTSxdS2ex73_43Mbyxw_iAjos-MAO5jhL5IRsKEdqgPLcp4RUHdGRY77OgGbCMbwPblR9rO9orIEcJvpiQ0QJWFpNN2eulRNwlp181Zrp-lLz111ylUPTHCafxaV&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "Tribu Jaguar",
+        "rating": "5",
+        "texto": "Háganse un favor y prueben la pizza burrata! De las más ricas que hemos probado. La burrata estaba muy fresca y contrasta muy bien con el pesto y los tomates secos.\nTienen varias opciones vegetarianas y además nos dieron gusto preparando una pasta que no estaba en la carta. Teníamos antojo de una pasta cremosa con parmesano y tal cual nos la prepararon sin ningún inconveniente.\nNos fue muy bien con el servicio, definitivamente un lugar al que volveremos.\nAunque no tienen sillas para niños, hay algunas mesas amplias con sillas estilo sofá en las que se puede acomodar un bebé sin problema."
+      },
+      {
+        "autor": "Gabriela Mejía",
+        "rating": "4",
+        "texto": "Muy buena atención. Pedí dos pizzas: viva la pizza y burrata. Ambas estaban muy ricas. También pedí una sopa de tomate, venía buena cantidad servida."
+      },
+      {
+        "autor": "Julian Hernandez Brochero",
+        "rating": "1",
+        "texto": "El día de hoy asistí a este restaurante del cc mallplaza, decepcionado totalmente muy mala atención, solicitamos \"el pedido\" pero llego a medias y lo que no se habia pedido, ahora faltaba una pizza que despues de 50 minutos me informaron que habia un error que les diera unos minutos más, le solicite al administrador o al cajero que me regalara un formato de quejas y me informo que no tenian.\nMe siento estafado! No lo recomiendo en lo absoluto."
+      },
+      {
+        "autor": "Jhon Henry Vargas Hurtado",
+        "rating": "5",
+        "texto": "Atención super. Muy amables y buenas opciones para elegir. Pizzas muy ricas.\n\nMuy queridas las trabajadoras."
+      },
+      {
+        "autor": "cristhian arias",
+        "rating": "5",
+        "texto": "Buen lugar para compartir en familia 😊, la 🥗, la 🍕 y la lasaña muy rica 😋, la atención es muy buena.\nLas malteadas son deliciosas 😃.\nLlevamos el niño en el coche y se pudo acomodar sin tapar el paso 👌"
+      }
+    ],
+    "rating": "4.7"
+  },
+  {
+    "nombre": "Pizzeria",
+    "categoria": "pizza",
+    "direccion": "Dg. 22c #19-60",
+    "telefono": "No disponible",
+    "latitud": 4.6170255,
+    "longitud": -74.0785312,
+    "foto": null,
+    "resenas": [
+      {
+        "autor": "Diana Cruz M.",
+        "rating": "4",
+        "texto": "Es facil de llegar, tienen buena atencion, y la pizza es deliciosa!!"
+      },
+      {
+        "autor": "andace villa leon",
+        "rating": "5",
+        "texto": "Es muy limpio da gusto comer y es delisioso y economico muy recomendado"
+      }
+    ],
+    "rating": "4.5"
+  },
+  {
+    "nombre": "PINTO'S PIZZA",
+    "categoria": "pizza",
+    "direccion": "Cl. 13 #22-34",
+    "telefono": "(601) 5607177",
+    "latitud": 4.6103467,
+    "longitud": -74.087164,
+    "foto": null,
+    "resenas": [
+      {
+        "autor": "oscar peñuela",
+        "rating": "1",
+        "texto": "Cerraron el local"
+      },
+      {
+        "autor": "Jhon freddy Baquero",
+        "rating": "5",
+        "texto": ""
+      },
+      {
+        "autor": "Adan Diaxx",
+        "rating": "5",
+        "texto": ""
+      },
+      {
+        "autor": "heidy cardenas",
+        "rating": "5",
+        "texto": ""
+      },
+      {
+        "autor": "William CASTILLO SANCHEZ",
+        "rating": "5",
+        "texto": ""
+      }
+    ],
+    "rating": "4.3"
+  },
+  {
+    "nombre": "Comidas Rápidas Comida Italiana",
+    "categoria": "pizza",
+    "direccion": "Cra. 23 #61",
+    "telefono": "322 8175832",
+    "latitud": 4.6054162,
+    "longitud": -74.0908984,
+    "foto": null,
+    "resenas": [],
+    "rating": "No disponible"
+  },
+  {
+    "nombre": "Pizzeria D' Luigi",
+    "categoria": "pizza",
+    "direccion": "Cl 22 #18-38",
+    "telefono": "312 4161089",
+    "latitud": 4.6134122,
+    "longitud": -74.0786373,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFg7julIXWnGs-PYBG63yGTPzW3X8ywXFvbhlPy7uEGiKm_ywfjHGEgj4eC8YwS2axzKzBk96mNX6MFdZ4TxYK1eNmf4s8YuaUIrUSPDQ4XHa2LyZDEf3AkcS1CHmjbnl1lZyJwIgGst27K7AxIkuxfrF98TBI9cVrmF8LgUWWq654NE&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "Camilo Quiroz",
+        "rating": "5",
+        "texto": "Tiene todo para ser un gran lugar de comidas, y encuentras detalles que van más allá de lo normal, ayer por ejemplo conocí una especia en su pizza de atún y me explicaron que era y que hacía, super bien, esa es la milla adicional."
+      },
+      {
+        "autor": "DFRG",
+        "rating": "5",
+        "texto": "23-04-22. Compré una pizza de 8 porciones, dividida en dos sabores, hawuaiana y mexicana, por tan solo 20 mil pesos y el domicilio me costó 3 mil. Bueno, bonito y barato. Económica, rica y excelente precio."
+      },
+      {
+        "autor": "rut gomez",
+        "rating": "5",
+        "texto": "Pedimos el domicilio fue rapido y llego caliente el pedido, exelente por eso le doy 5 estrellas."
+      },
+      {
+        "autor": "Gina Prieto",
+        "rating": "5",
+        "texto": "La verdad q delicia 😋 muy pero muy deliciosa"
+      },
+      {
+        "autor": "yorle barbosa",
+        "rating": "1",
+        "texto": "Después de cierta hora como las 7 o 8  de la noche, nunca responden la llamada"
+      }
+    ],
+    "rating": "4.7"
+  },
+  {
+    "nombre": "Jeno's Pizza",
+    "categoria": "pizza",
+    "direccion": "Calle 19 # 28 80 C.C. Calima local C13",
+    "telefono": "(601) 4259525",
+    "latitud": 4.6178152,
+    "longitud": -74.0860999,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFhJ9srxgbPA8_PzPKNN5h3gGul-s764H4SJxKgdaw31O9RO-d8d0Aztjsy3jfDER5tSvuDt-g4zh0AdmhXi_dxDg4n9C4eGEexgcCYgEeU_bfzJdssjvNpVPCFYvMMshXmbwrvbXJXeZqkq5kIUk37S0_Bl_obogSxYtSAt48qgT8Bn&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "Ricardo Anzola",
+        "rating": "5",
+        "texto": "Excelente que buena experiencia el lugar quedo super amañador, la carta brutal, las sillas tipo sofá amañadoras y cómodas y la comida en relación costo beneficio de los mejor, generosa porcion, deliciosa y los precios bien y yo con la mejor compañía"
+      },
+      {
+        "autor": "Grace R S",
+        "rating": "4",
+        "texto": "Me encanta la pizza y más los rollitos de canela"
+      },
+      {
+        "autor": "Jaime Sará",
+        "rating": "2",
+        "texto": "La mazorcada es solo papas fosforitos, casi no encontré proteína. El chorizo es costoso y se puede mejorar el sabor"
+      },
+      {
+        "autor": "Camilo Rojas",
+        "rating": "4",
+        "texto": "Muy buena la pizza, mantiene su sabor característico, pedi para llevar y me entregaron mi pedido en el tiempo correcto."
+      },
+      {
+        "autor": "J Muñoz",
+        "rating": "5",
+        "texto": "A mí sí me gusta la pizza clásica, y por eso Jenos está en mi lista de preferidas. Además, el parqueadero es gratis si compro algo en La 14."
+      }
+    ],
+    "rating": "4.1"
+  },
+  {
+    "nombre": "Cenizo - A la leña",
+    "categoria": "pizza",
+    "direccion": "Av Jimenez de Quesada # 9 - 62 Piso 2, Santa Fé",
+    "telefono": "(601) 3340854",
+    "latitud": 4.6022875,
+    "longitud": -74.0761186,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFh5BWXAX26zTe4kwpvL9u2NF_0Rseis5OHnM72mjMmAqQJUHm6ovr1PfNkvLJ-ZQEVBfubIJsmYu7fYDasNH8HTBHovLQkDk0JEjT2Pv-tM9ZqQQMx-U7zKVoYSbEALKePcatbGzgo-m4KKLDbszFotjlz0fy-gvFWnMsF1ens7zeiL&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "Sergio Aya",
+        "rating": "5",
+        "texto": "Ubicado sobre la avenida Jiménez, dentro de un pasaje comercial no muy díficil de encontrar ( con un aviso del sitio en la calle) está uno de los.mejores sitios de la.ciudad, una atención rápida y amable, donde te explican las opciones y especialidades, una comida muy rica, buen sabor, la carne en un buen punto, una presentación muy buena y una pizza deliciosa hecha al horno y una cerveza artesanal de un buen sabor pero que no es del todo convincente. en general un Excelente sitio para disfrutar, con buen ambiente y precios muy comodos"
+      },
+      {
+        "autor": "Mati Sol",
+        "rating": "3",
+        "texto": "En enero de 2023 pedí una barbacoa que se supone que es un asado, en una salsa de reducción de vino, muy rica esa vez. En cambio volvi en junio, pedí el mismo plato, una desepcion era una carne en guiso, salsa de tomate, cebolla, un simple guiso. No cumple con el calidad precio."
+      },
+      {
+        "autor": "Guillermo Mejía",
+        "rating": "4",
+        "texto": "Fui por el burguer Master, la hamburguesa fue muy buena, de las mejores, la carne se siente que es asada al carbón, el pan es muy suave, artesanal de papa, la tocineta no es crocante, le falta. Muy buena hamburguesa artesanal. Buena porción. Muy recomendable"
+      },
+      {
+        "autor": "Jorge Alberto Diaz Garcia",
+        "rating": "5",
+        "texto": "Todo fue muy bueno"
+      },
+      {
+        "autor": "Fernando Guzman",
+        "rating": "4",
+        "texto": "Llegamos y la atención buena, la mesera muy gentil explicó la carta. La comida estuvo rápido y estaba muy rica. En mi caso pedí un bife 3/4 y estaba un poco pasado de cocción, de resto todo rico, muy conforme con la comida y el precio justo.\n\nLuego pedimos un postre y era limitado en estos, solo de chocolate o maracuyá.\n\nEn todo caso salimos muy contentos con la comida, la atención y con un precio mesurado."
+      }
+    ],
+    "rating": "4.5"
+  },
+  {
+    "nombre": "Pizzas Queen",
+    "categoria": "pizza",
+    "direccion": "16-52 Carrera 12",
+    "telefono": "No disponible",
+    "latitud": 4.6052204,
+    "longitud": -74.0758598,
+    "foto": null,
+    "resenas": [],
+    "rating": "No disponible"
+  },
+  {
+    "nombre": "Pollo Pizza Carne",
+    "categoria": "pizza",
+    "direccion": "Ave Cra 30 #19, Los Mártires",
+    "telefono": "(601) 4431000",
+    "latitud": 4.6182187,
+    "longitud": -74.08606329999999,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFgCn9DSghyXLRflVwUtEpKQwfCr9aro1fy1DZNjTIrhRZjThz2FQro8tioGfOaEp-jnyvWyREfnU576C07wYzxCButEX_f8snOnRaXUxscT3hAFYvtujukZzUwiwls4vTk9hiM3QDz7gtSVH5NSsWGyE8n6iU9c2-IxGFtoWHrJQymb&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "L",
+        "rating": "3",
+        "texto": "Pésimo servicio, la comida está ok pero los precios muy elevados. Las bebidas desabridas, la gaseosa sin gas.\nNo lo recomiendo."
+      },
+      {
+        "autor": "Vidayviajesdelucho",
+        "rating": "5",
+        "texto": "Excelente muy delicioso y muy recomendado..😋😋😋😲"
+      },
+      {
+        "autor": "Nils Reichert",
+        "rating": "2",
+        "texto": "No comida especial. El precio está bien, pero la pasta está lejos de estar al dente. Las hamburguesas cuestan más con una rebanada de queso, y no saben tan bien. También cobran un servicio de voluntariado en la factura, sumado antes de la suma total. No es agradable para mí."
+      },
+      {
+        "autor": "Cristian Maldonado",
+        "rating": "1",
+        "texto": ""
+      },
+      {
+        "autor": "Sandy Vargas",
+        "rating": "1",
+        "texto": ""
+      }
+    ],
+    "rating": "2.5"
+  },
+  {
+    "nombre": "Moon pizza alillitas",
+    "categoria": "pizza",
+    "direccion": "Cra. 16 #186",
+    "telefono": "322 7285169",
+    "latitud": 4.609253,
+    "longitud": -74.077856,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFhNlQyQKrFJG--LrwdckC7b-fYYK36DjI1qSFZ-2YonQpk9Lqbwi-R5qFCsSjExNlHCapl-vXc8-Co93jp1N7nF_t4fm4tvEpJEmGWHrDqUQYVlryxmFhFrBB9baxNQ-HMtI1s-z9bzdj0BIk1fSAOl2nDVpd5zeu2qAwPYQDydRIm7&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "EDWIN PARRADO",
+        "rating": "1",
+        "texto": "El día de ayer se realizó un pedido a las 11pm y llegó a la 1:55 tenia mala presentación y de sabor estaba insípida a parte llego sin envolver."
+      },
+      {
+        "autor": "Daniela cleves",
+        "rating": "1",
+        "texto": "Hize un pedido a las 10pm llegó a las 12 evitense un dolor de cabeza y no pidan nada de este lugar"
+      },
+      {
+        "autor": "Fabian Andres Castrillon Rodriguez",
+        "rating": "1",
+        "texto": "Solicite domicilio a las 12:00am después de 50 minutos me aparecía como cancelado, y me descontaron el dinero del pedido no se puedo resolver esa noche pero después de despertar al otro día me aprecia como entregado a las 2:30 am yo nunca recibí nada. Pésimo pésimo establecimiento\n\nEstoy en trámite para que me devuelvan el dinero."
+      },
+      {
+        "autor": "Juan Sebastian Ballesteros Poveda",
+        "rating": "1",
+        "texto": "Horrible ,llegó toda cruda y no responde para nada"
+      },
+      {
+        "autor": "Salgado",
+        "rating": "5",
+        "texto": "Buen lugar"
+      }
+    ],
+    "rating": "2.3"
+  },
+  {
+    "nombre": "Pizza 1969 Gourmet",
+    "categoria": "pizza",
+    "direccion": "Kr 24 #53 - 73",
+    "telefono": "No disponible",
+    "latitud": 4.6102492,
+    "longitud": -74.0880356,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFjCOZJ_nsatTs1jnJAqYAxlfbKUp9XSXSLJCX42KBN20LNtRfZG-z13-NvkPvasr9Imq010JptXM1oeBltk-BFvPSycJgO1TryS7EJAKbsuWtv13vHDlkvtBMsSz75IIa4m6DiyUwHTE4LamJ4YKEJax41IPp25pmGVFfkCGOZphHDC&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "ana garcia",
+        "rating": "5",
+        "texto": "Excelente lugar recomendado"
+      },
+      {
+        "autor": "A P",
+        "rating": "5",
+        "texto": ""
+      }
+    ],
+    "rating": "5"
+  },
+  {
+    "nombre": "Tomates Pizza",
+    "categoria": "pizza",
+    "direccion": "Bogotá, Bogota",
+    "telefono": "No disponible",
+    "latitud": 4.6023832,
+    "longitud": -74.0756236,
+    "foto": null,
+    "resenas": [],
+    "rating": "No disponible"
+  },
+  {
+    "nombre": "Viva la Pizza",
+    "categoria": "pizza",
+    "direccion": "Av Jimenez de Quesada #5-38, La Candelaria",
+    "telefono": "(601) 4672685",
+    "latitud": 4.601022199999999,
+    "longitud": -74.0723751,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFh7CrlMW7w5MdZ9pP2_4wn5kjZmFZtcmZT1kSF1OLkt_ZQlSPvBRayH43hcRXKGOUZXuslAemNfOB1c_2Q8InZ9XcB0LlCK1axRtftbzhYEbNveitrSEkh7OEOd9JvbtgCyOSvS4nOGz8uqjefMk8uPM7zbNFSKj-AkE9a-8mlTn-RU&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "carolina parra",
+        "rating": "2",
+        "texto": "No llego el pedido y se pagó por anticipado por la plataforma directa de viva la pizza. Al día siguiente del pedido llamamos y respondieron ofreciendo el dinero o la pizza sin poner ningún problema, más sin embargo pagar contra entrega es lo más recomendable para evitar malos momentos."
+      },
+      {
+        "autor": "Nina Valoyes",
+        "rating": "1",
+        "texto": "Al pedir por la página oficial de viva la pizza, pagamos por anticipado, estábamos pendientes a qué llegase pero después nos dijeron que el pedido ya había Sido entregado, llamamos al número que nos decía la página que es el mismo de acá y no contestan, nos robaron la plata"
+      },
+      {
+        "autor": "Goyo Calderon",
+        "rating": "4",
+        "texto": "Muy buen servicio siempre muy rica la pizza y el helado fabuloso"
+      },
+      {
+        "autor": "peyton zarate",
+        "rating": "1",
+        "texto": "Pésimo servicio se demoran un montón con el pedido , y se pidió que me vendieran los   portapizzaz de cartón  y se negaron a venderlos ."
+      },
+      {
+        "autor": "Alejandro Alvarado",
+        "rating": "5",
+        "texto": "Muy buen servicio, muy rica la pizza"
+      }
+    ],
+    "rating": "4.1"
+  },
+  {
+    "nombre": "Pizzeria La Vecina",
+    "categoria": "pizza",
+    "direccion": "Cra. 8 #16",
+    "telefono": "No disponible",
+    "latitud": 4.6035046,
+    "longitud": -74.07329279999999,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFgm4I8T-5qCODeAZTA9wUr-pMyD0L0mCzZEVVEi9XAKHmAMDE1JTAhsR5nq-N4b4ZfcOa19i__JRJEv16dNqQrR1W-cWD1UI0hC0bloSdgPyrAuiOrdIF8OZihxFJ9QBTYAoJGVqTTuFgo5EWO-aeUyAWTN049JYZJoqRLrZN_4lZQ&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "jya romero",
+        "rating": "5",
+        "texto": "Es la pizza más rica que e probado y por solo $10500"
+      }
+    ],
+    "rating": "5"
+  },
+  {
+    "nombre": "Pizzeria de comidas rapidas la 22",
+    "categoria": "pizza",
+    "direccion": "Cl 22 #15-45, Los Mártires",
+    "telefono": "312 3002031",
+    "latitud": 4.6092449,
+    "longitud": -74.0761857,
+    "foto": null,
+    "resenas": [
+      {
+        "autor": "Carolina S.",
+        "rating": "5",
+        "texto": "Pizza deliciosasy  muy buena atencion"
+      },
+      {
+        "autor": "Yuli Celis",
+        "rating": "5",
+        "texto": ""
+      }
+    ],
+    "rating": "5"
+  },
+  {
+    "nombre": "pizzas",
+    "categoria": "pizza",
+    "direccion": "Cra. 17 #11-45",
+    "telefono": "No disponible",
+    "latitud": 4.604399799999999,
+    "longitud": -74.0836798,
+    "foto": null,
+    "resenas": [],
+    "rating": "No disponible"
+  },
+  {
+    "nombre": "Jhonnys Pizza",
+    "categoria": "pizza",
+    "direccion": "Cl. 13 #11-16",
+    "telefono": "No disponible",
+    "latitud": 4.6036898,
+    "longitud": -74.0796943,
+    "foto": null,
+    "resenas": [
+      {
+        "autor": "Santiago Gallardo",
+        "rating": "1",
+        "texto": "Hice un pedido por didi food; les pagué por anticipado; esperé 2 horas, para que finalmente me cancelaran el pedido.\n\nQue poca seriedad de restaurante, jugando con la plata, el tiempo y la paciencia de sus clientes. PESIMO SERVICIO."
+      }
+    ],
+    "rating": "1"
+  },
+  {
+    "nombre": "Pizza super Station",
+    "categoria": "pizza",
+    "direccion": "Cl. 19 #25-04, Los Mártires",
+    "telefono": "322 3204402",
+    "latitud": 4.6150744,
+    "longitud": -74.08420319999999,
+    "foto": null,
+    "resenas": [],
+    "rating": "No disponible"
+  }
+]

@@ -1,0 +1,357 @@
+[
+  {
+    "nombre": "Carrero El Capo de las Hamburguesas",
+    "categoria": "hamburguesa",
+    "direccion": "Cl. 19 # 30 - 03",
+    "telefono": "No disponible",
+    "latitud": 4.6187314,
+    "longitud": -74.08881319999999,
+    "foto": null,
+    "resenas": [],
+    "rating": "No disponible"
+  },
+  {
+    "nombre": "El Frankfurt Hamburguesas",
+    "categoria": "hamburguesa",
+    "direccion": "Cl. 11 #11-70 Local 301",
+    "telefono": "310 2862229",
+    "latitud": 4.601018799999999,
+    "longitud": -74.0792857,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFjIaEHKLQtbG3NuocgHFVGnerLgx6C9bgOXu0cuxJlldSZJixqXzkA5E3hM7817hqT8SJLTY24uHVGC92dix253OfLpKNq6meHs_nkhPqG3MrmEHuhBGYAcZYCxhpW5_8jF5UDHMZ7xSl0vo4ROKzY88VTzF0ThVntQwLLQmSc1GscT&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "Gerson Gomez Jimenez",
+        "rating": "4",
+        "texto": "Es un lugar genial, es demasiado Limpio y muy buena atencion, los productos son deliciosos, para mi la mejor hamburguesa es es la bacon bbq, las papas son deliciosas y la mayonesa y salsa bbq que emplean son de otro nivel, recomendado 100%, deberían de pronto mejorar un poco más los tiempos de entrega"
+      },
+      {
+        "autor": "Alexander SANCHEZ GRACIA",
+        "rating": "5",
+        "texto": "Probé la Salchipollo y excelente, Muy bueno el sitio en general, orden, aseo, organizados"
+      },
+      {
+        "autor": "Adolfo Ahumada",
+        "rating": "5",
+        "texto": "Cuando quiero comer una buena Hamburguesa voy a este restaurante, el lugar es exelente, muy buen servicio, los empleados son amables y el ambiente muy genial, recomendado por si están en San Victorino y quieren comer algo, pasen por este restaurante, para mí las mejores jamburguesas que he probado en Bogotá hasta ahora."
+      },
+      {
+        "autor": "KATHERIN VARGAS PAEZ",
+        "rating": "1",
+        "texto": "Que tristeza que hayan dañado las hamburguesas, ahora subieron el precio y la calidad por los suelos. Me gustaría que un gerente o dueño se comunique conmigo para poder poner el PQR"
+      },
+      {
+        "autor": "Giovanni Medina",
+        "rating": "4",
+        "texto": "Imagina comer MC Donald's asi es, muy buena hamburguesa, buena relación calidad precio, no tiene el 5 porque no lo merece, te la comes y quedas bien, satisfecho, nada de el otro mundo. Ocasión: un día cualquiera de oficina que quieras comer una hamburguesa y sha."
+      }
+    ],
+    "rating": "4.3"
+  },
+  {
+    "nombre": "New York Burgers",
+    "categoria": "hamburguesa",
+    "direccion": "Cra. 9 # 12-51",
+    "telefono": "350 5144293",
+    "latitud": 4.600740999999999,
+    "longitud": -74.07641629999999,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFhw9NTYW5StOmAc3VKJfg9sAZP1QS9Q72UrywOU7iUMmskc3vrtLM4uJtFFh1YtIZUzNmwa3S0m4BNafvetVyPVRWB6E1k8qhsfFxAc9y2PX3S8oIEtQyMWIeDccGY0BgxtwHSK_TKHqu3Vbm29ruuAtAHEEx9OhPHGkvkvGX-3f-Gf&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "Sergio Alberto Osorio Quevedo",
+        "rating": "5",
+        "texto": "Las hamburguesas son muy buenas, están hechas con salsa de Jack Daniel's y les da un toque único. El servicio del cajero no es muy amable y no tienen servicio a la mesa. Cuentan con un comedor en el segundo piso exclusivo de ellos con un buen ambiente. Lo recomiendo para comer algo diferente a la hora del almuerzo."
+      },
+      {
+        "autor": "Andrea Stefania Riveros",
+        "rating": "5",
+        "texto": "Un lugar perfecto para comer una buena hamburguesa, probé una de las mejores que tienen y me sorprendió, salsa con Jack Daniels espectacular, la combinación con queso es perfecta, carne jugosa y sabor delicioso, pan y verduras frescas ... Un excelente producto digno participante del burguer Master que merece reconocimiento. Recomendado y volveré. 🤤🤤"
+      },
+      {
+        "autor": "Isaac Merlano",
+        "rating": "5",
+        "texto": "Buen sitio para comer algo rápido, en el segundo piso hay un comedor muy agradable alejado del ruido de la calle con muchas lucesitas en el techo que generan un ambiente propicio para disfrutar de la comida, la cocina es a la entrada frente a la calle pero se puede ver la organización y limpieza"
+      },
+      {
+        "autor": "carlos augusto cuervo ruiz",
+        "rating": "5",
+        "texto": "Unas hamburguesas deliciosas que valen muchísimo la pena, al mejor estilo americano 🤤."
+      },
+      {
+        "autor": "Leonardo Rios Carmona",
+        "rating": "5",
+        "texto": "Deliciosas Hamburguesas, recomiendo la Central Park!"
+      }
+    ],
+    "rating": "4.5"
+  },
+  {
+    "nombre": "Club de la Hamburguesa",
+    "categoria": "hamburguesa",
+    "direccion": "Cra. 8 #16-94",
+    "telefono": "No disponible",
+    "latitud": 4.6039118,
+    "longitud": -74.073224,
+    "foto": null,
+    "resenas": [],
+    "rating": "No disponible"
+  },
+  {
+    "nombre": "club de la hamburguesa",
+    "categoria": "hamburguesa",
+    "direccion": "Cl. 12d #4 - 31",
+    "telefono": "(601) 2436890",
+    "latitud": 4.6003029,
+    "longitud": -74.0708083,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFgtz2BpxIYzb9Wv4s8zjx0q_OJYDfYCgzU681KHJK4ZRguZ51mL1U_S-rM_EeEWhnP8W5UFEXdqkGVbM0POLOMlLjb1G0gevll7qvUePwLob80LmbFAyUyjNopsRQlqDu-iKHr2soP2g5Jv73wk8ZiG5WPseqxt-LM2XSHNUMk-dtJt&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "Marcos Ramirez Montes",
+        "rating": "5",
+        "texto": "Pedimos pechuga americana y estaba delicioso 😮‍💨"
+      },
+      {
+        "autor": "ELIZABETH JIMENEZ",
+        "rating": "4",
+        "texto": "Es la segunda vez que voy y mi opinión es que esta vez mejoro mucho la preparación de la comida. Estuvo bueno, bonito y barato.\nEspero sigan mejorando, éxitos!"
+      },
+      {
+        "autor": "Juan Forero",
+        "rating": "2",
+        "texto": "Bajaron muchísimo la calidad de las hamburguesas. Pedí una de champiñones y solo traía una salsa hecha como con crema de polvo en sobre. Muy poco sabor, la sirvieron muy fría. La hawaiana fue igual. El pan tampoco tenía sabor."
+      },
+      {
+        "autor": "Ana Paez",
+        "rating": "1",
+        "texto": "Hace mucho no iba por qué nos dieron una hamburguesa en mal estado (Carne dañada), regresamos dándole una nueva oportunidad, no cambio nos dieron una hamburguesa cruda, el dueño no toma en cuenta los comentarios ya que sigue con el mismo parrillero, ya que las dos veces que nos ha ido mal está el mismo."
+      },
+      {
+        "autor": "Maria paula Valderrama",
+        "rating": "4",
+        "texto": "Las hamburguesas son buenas, pero han desmejorado bastante en la calidad de la carne, el pan y la tocineta."
+      }
+    ],
+    "rating": "4.2"
+  },
+  {
+    "nombre": "Cerdo Rey Burger",
+    "categoria": "hamburguesa",
+    "direccion": "Cl 22 #8-22",
+    "telefono": "305 7953121",
+    "latitud": 4.6083036,
+    "longitud": -74.0710462,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFjkvgBiqiDH2jHfhuYUI4fLZnIHNFCAHfyLm6DvNsbIFNVJFhgu4bWKYXsPW4x0cgnpZ_E7XTIq1qp_kADT76JgM8I_gAIq_0FPdaUEfz4DtXX3C4A9S-9G6TY3yzW4hpAWfnSTqklCNOgmjSBg3apUq8Z6B-73PRrd8kl0km28wO-z&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "Gabriela Mejía",
+        "rating": "4",
+        "texto": "Me gustaron las hamburguesas, tienen buen sabor, los ingredientes estaban frescos y tienen buen tamaño. Excelente calidad/precio.\n\nMi única observación es hacia la atención al cliente: llegamos al sitio y nadie nos atendió, ni a ubicarnos una mesa, ni a tomarnos el pedido, después de 10 minutos tuvimos que acercarnos a la cocina a que nos tomaran el pedido.\nNo nos colocaron servilletas tampoco.\nEn general se notaba desorganización con el área de la cocina y los meseros"
+      },
+      {
+        "autor": "Daniel Hernandez",
+        "rating": "3",
+        "texto": "Esta ubicado en pleno centro de Bogota, en plena séptima así que es sencillo llegar si se está caminando por la zona, esta en una casa que es una agrupación de varios restaurantes. El servicio me pareció regular ( pedí la hamburguesa sin verduras y me la dieron con verduras), la mesa y sillas me parecieron incómodas. Sin embargo lo positivo del lugar es la comida, la hamburguesa estaba muy rica, recomendado"
+      },
+      {
+        "autor": "Luigy González",
+        "rating": "2",
+        "texto": "Muy mala la calidad de la carne, sin sabor nada jugosa,  pedí una hamburguesa con chicharrón y me dieron un trozo de pura grasa y el colmo en el centro congelado, a mis acompañantes les dieron en la hamburguesa un trozo de chicharrón insípido y nada comestible para estar en una hamburguesa, calidad precio nada proporcional... la verdad NO lo recomiendo..."
+      },
+      {
+        "autor": "raul hernan pinto ocampo",
+        "rating": "1",
+        "texto": "Fui cliente del lugar cuando estaba por la séptima ya hace unos años; después de que se mudaron les perdí el rastro y luego me di cuenta de su nueva ubicación, hoy estaba por el centro y se me antojo ir, sin embargo, ahora tienen una cadena en la entrada, y a pesar de que varios trabajadores del local se percataron que yo estaba ahí parada, ninguno se acercó a indicarme nada, por lo cual no tuve más remedio q irme."
+      },
+      {
+        "autor": "sebastian romero",
+        "rating": "5",
+        "texto": "Muy buen restaurante para comer hamburguesas, excelente sabor, excelente atención, tiene un muy buen ambiente para poder comer con paz aparente tiene una música muy relajante para poder comer bien, lo recomiendo mucho"
+      }
+    ],
+    "rating": "4.4"
+  },
+  {
+    "nombre": "Lazaro Burger",
+    "categoria": "hamburguesa",
+    "direccion": "Cl. 9 #25a-10",
+    "telefono": "No disponible",
+    "latitud": 4.6065991,
+    "longitud": -74.0917821,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFgJV7xz5CaZZwxHjs2YHbXO5axzYOSUClxjen0c50boh_o_CElMpR59yRrN7-ITFh2_NKVlDVuSfjLeianb48mrLCxenBZLZlDoGDjn4jMOgESs6W-cr-1A8S3MeYvC9dlE1ZKGrPYE476aSgxB8tX1UW3My3Su1QAd2AMkiL_2xuF0&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "Gabriela Mejía",
+        "rating": "3",
+        "texto": "Pedí un Hot Dog y una Salchipapa.\nEl Hot Dog estaba decente, no es la gran cosa, pero estaba bien y las papas estaban ricas. Sin embargo, la Salchipapa era incomible, tenía demasiada salsa y queso cheddar. En general me parece caro para la calidad de la comida."
+      },
+      {
+        "autor": "Arthur Urrea",
+        "rating": "2",
+        "texto": "Cómi empanadas de pollo, no tenía buena sazón, poco pollo y alto el valor $$$"
+      },
+      {
+        "autor": "Paola Olarte",
+        "rating": "4",
+        "texto": "unas alitas deliciosas, igual q las papas, ummm y la limonada natural en su punto, mejoraría un poco el tiempo, pero en general estuvo bien!"
+      },
+      {
+        "autor": "Edgar Munoz",
+        "rating": "4",
+        "texto": "Bueno, bonito y barato. No hay mucha variedad en el menú pero las hamburguesas son fantásticas. Además hay excelentes jugos."
+      },
+      {
+        "autor": "Sandra Urrego",
+        "rating": "5",
+        "texto": "Es diferente a todas las hamburguesas que he probado, la carne es cuidadosamente preparada, me encanta!"
+      }
+    ],
+    "rating": "4.3"
+  },
+  {
+    "nombre": "Parador Madrileña calle 6",
+    "categoria": "hamburguesa",
+    "direccion": "De Los Comuneros #18-49",
+    "telefono": "310 2733096",
+    "latitud": 4.599341400000001,
+    "longitud": -74.0886931,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFi3Mxw6SSiw-N5eE41sVf0SE6cH5BYDuKa2DNOcpqNC_jIWuH-uWyOcWfV5G8zQUhpKoC3GMLGe45PQ4RQWFcpilvV8vCGjlUVJRqt7bAVGqDjTQxXBnnzYV0fq-DYR2uo5ugh7-PS4ur9iNpmjFxIuNtq525mTA1CYFwwHV6i6igVT&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "Fernando Zambrano",
+        "rating": "1",
+        "texto": "Tristemente ha decaído ultimamente la calidad en el servicio de las cocineras, puesto que es inaudito que unas salchPapas sirvan solo papas y quemadas,  y un sándwich de queso de cabeza no lleve ni siquiera un cuarto de queso,  solo pan y  no importa  el precio por que sabemos de la calidad de los productos,  pero pagar por\nTan poquito ,en serio,  es miserable lo que sirven,  ahora,  se dirige uno muy amable a preguntar para pedir otro producto y son muy grosera en su actitud al dar una respuesta,  lamentablemente,  hoy no tuvimos una buena experiencia,  lastima,  por que este lugar es muy recomendable para ir en familia,  pero así,  ya ni modos de volver"
+      },
+      {
+        "autor": "Carlos Rozo",
+        "rating": "1",
+        "texto": "Comida algo rica, mucho humo en las instalaciones las personas salen con olor a manteca, no hay ventilación adecuada, no dan servilletas extras y el baño tampoco hay suministros básicos, la atención del personal fue desafiante. No recomiendo este lugar."
+      },
+      {
+        "autor": "Gregorio Caro",
+        "rating": "5",
+        "texto": "Sin duda alguna venden las hamburguesas más ricas del sector, ofrecen las hamburguesas con la adición que desees, aparte de esto venden otros platos lo que lo hace un sitio para todos los gustos.\nAdicional a esto se pueden comprar carnes para cocinar en casa.\nUna recomendación sería que dejaran escurrir un poco más el aceite de las carnes puesto que al estar finalizando la hamburguesa se hace imposible comer lo que queda puesto que se ha acumulado toda la grasa."
+      },
+      {
+        "autor": "Iván Leonardo Lugo",
+        "rating": "1",
+        "texto": "En resumidas cuentas el aeropuerto el dorado, le quedó en pañales en cuanto a precios se trata.\nCaro no es...... Es reeeeecaro!"
+      },
+      {
+        "autor": "LuiS eduardo carreño Diaz",
+        "rating": "1",
+        "texto": "Muy mal servicio y una hamburguesa de $27.000 con esa calidad tan mala es la mejor publicidad para no volver y mucho menos recomendar........lastima la plática que pagué"
+      }
+    ],
+    "rating": "4.4"
+  },
+  {
+    "nombre": "Home Burgers Mall Plaza NQS - Calima",
+    "categoria": "hamburguesa",
+    "direccion": "CC Mall Plaza, AV Calle 19, NQS #28-80 # 28",
+    "telefono": "311 4461111",
+    "latitud": 4.618496,
+    "longitud": -74.08567699999999,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFjfpeMaXvNeQdGU7JXRq1265J_mbv6wSUGRn-FJ1w8SHv5KJDXOHyWxDEsnW4TjiQP6dzYxuBrHk2wY-1wmBotOY846vvf-ut0wZsMs5gnVM-9yu364GBuFoGsjaKlc0ahN8C6kx1m9zAJni01vAhFN3Oics0jKT_uX2Nq5pmJIRFjP&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "Camila Ramos",
+        "rating": "5",
+        "texto": "Las hamburguesas son absolutamente deliciosas: jugosas, de buen tamaño y perfectas en su sencillez. Las papas son riquísimas y crocantes la salsa es un acompañante excelente.\nUn lugar donde sin dudas tendrás un buen momento y lo más importante una gran hamburguesa"
+      },
+      {
+        "autor": "Edna Lucía Murillo Ramírez",
+        "rating": "1",
+        "texto": "Pedí una hamburguesa doble con doble porción de tocineta y en cama de lechuga para llevar, y mi pareja pidió una sencilla. Primero me la sirvieron con pan y tuve que devolverla, y al llegar a casa nos dimos cuenta que ninguna de las hamburguesas tenía ni queso, ni pepinillos, ni cebolla, ni tomate.\n\nY ni qué decir de la atención de los hombres de allí, es horrible."
+      },
+      {
+        "autor": "Majo Azocar",
+        "rating": "1",
+        "texto": "La hamburguesa más cara y más flaca que he visto en mi vida, la servilleta era más gruesa que el pan y la carne. 4mil la adicion de queso y 5 la adición de tocineta, está decepción costo 23,500. No volvería jamás."
+      },
+      {
+        "autor": "Ricardo Anzola",
+        "rating": "5",
+        "texto": "Buena hamburguesa, la pedí con tocinteta, eso si me toco buscar la tocinteta con las gafas, pero si volvere"
+      },
+      {
+        "autor": "Agustín Casarini",
+        "rating": "5",
+        "texto": "Las hamburguesas son muy buenas. Simples pero con ingredientes de calidad y bien hechos. Deliciosas. Los helados también me parecieron muy ricos. La atención me pareció muy buena y rápida ."
+      }
+    ],
+    "rating": "3.4"
+  },
+  {
+    "nombre": "El Corral Mallplaza-NQS",
+    "categoria": "hamburguesa",
+    "direccion": "Avenida. CAlle 19 No. 28-80 Local C-30, Calima",
+    "telefono": "(601) 6543354",
+    "latitud": 4.61845,
+    "longitud": -74.08588,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFi2YLb11B5vIfijuYjzDe-gW1oHg3vJMbG4X8mGl_YyRmDIEHwdD0-Tqk14Mo-7GSiiiqspYCCGrqkaGxf_oBZegwuGVuyg1FSC_hnj6vd2J1f5XCN5xOtIQzNySnieL3HFecY3Rfl1bIfwXOdIuwHcbbimcou2yYAEQGh8im2jqVU&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "Mauricio F.",
+        "rating": "4",
+        "texto": "Es un local agradable y con la calidad usual en esta cadena. El proceso de pago depende de la rapidez de los clientes situados en la fila antes que uno. Entre el menú de opciones, elegimos un combo con hamburguesa Casera y otro con una Corralisima."
+      },
+      {
+        "autor": "Andrés Urrea",
+        "rating": "2",
+        "texto": "El sitio es  cómodo pero estaba sucio en todas partes cuando llegamos y cuando terminamos seguía igual, la atención no es la mejor y en cuanto a la comida la hamburguesa vegetariana no sabe nada bien y es minúscula en comparación con las otras hamburguesas y con el precio, soy vegetariano no un niño de 6 años, no comería de nuevo allí. A mi novia le gusta la hamburguesa de pollo dijo que estaba rica"
+      },
+      {
+        "autor": "Felipe Villamizar",
+        "rating": "1",
+        "texto": "Terrible el servicio de este sitio. Nunca me había tocado un corral así. Casi 15 minutos para tomar la orden de 4 personas y aún peor una hamburguesa corralisima que parece de macdonald's."
+      },
+      {
+        "autor": "JUAN DAVID BONILLA",
+        "rating": "5",
+        "texto": "El corral me gusta mucho y cuando voy con mi mascota también, hamburguesas ricas."
+      },
+      {
+        "autor": "daniel espitia",
+        "rating": "1",
+        "texto": "La atención horrible. El personal de aseo hace mala cara al pedirle que limpien las mesas. Me vendieron papas quemadas y recalentada, no realizan cambios. No ahí personal en el mostrador. Las mesas permanecen sucias. Me encanta la marca pero este punto de atención es el más sucio y cochino de la marca. Comparto fotos."
+      }
+    ],
+    "rating": "3.1"
+  },
+  {
+    "nombre": "The Grill Station Burger - Mall Station",
+    "categoria": "hamburguesa",
+    "direccion": "Av. Cdad. de Lima #28-80",
+    "telefono": "No disponible",
+    "latitud": 4.6173401,
+    "longitud": -74.08626319999999,
+    "foto": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFgc5MhTYBnLfVZn6hz2yURubWRKUzlZUi-BSOmxHKHARzpkxwZ1ZW-OCpPq8XW-KmLQClZ4VyOscuh2dHlhFJ5EXOkrUOR5oqa8TUPwqvnDEjqpbA1DgZViQnQAcWGek9dvvDr2MoEdMyhEHGQav_OOz61G2yG3howvP5WzabA61Jm-&key=AIzaSyDPj4y_MABVQFa8bwMfN-k6bUWEbrYv3oU",
+    "resenas": [
+      {
+        "autor": "Juliana Alba",
+        "rating": "5",
+        "texto": "Las hamburguesas son deliciosas, tienen una gran variedad, ofrecen diferentes salsas para las papas excelentes! recomiendo la de ajo. Aunque en el menú estén las canastas de plátano, no la manejan en esta sede. La atención es muy buena, sería muy bueno que pusieran otra sede!!!"
+      },
+      {
+        "autor": "Diego Casas",
+        "rating": "4",
+        "texto": "Probamos las hamburguesas y son deliciosas, tienen variedad de salsas y bebidas, tal vez si para algunas hamburguesas que vienen con tocineta, podrían cocer un poco más la tocineta, por lo demás es muy rico lo que preparan"
+      },
+      {
+        "autor": "Diego Ricaurte",
+        "rating": "5",
+        "texto": "Una hamburguesería que llegó para quedarse y dar un golpe a la competencia. Sus sabores son únicos y potentes, la atención es buena y siempre brindan información del refill de gaseosa y el lugar tiene una buena atmósfera ( puntos a favor a calima por crear este espacio). Probé la hamburguesa Angus y en serio es una completa barbaridad, el primer mordisco es una explosión de sabor única que no te deja ni de lejos indiferente. Muy recomendada la vista a este local."
+      },
+      {
+        "autor": "César A.",
+        "rating": "3",
+        "texto": "Si bien las hamburguesas no estuvieron mal, la carne tenía baja cocción, sería importante solicitar el término. El ambiente es compartido con otros restaurantes, a manera de plaza de comidas. Hay buena variedad de productos pero los menús para niños, como trozos de pechuga apanada, son pequeños."
+      },
+      {
+        "autor": "ISMAEL SM",
+        "rating": "5",
+        "texto": "Muy buena experiencia degustar estas hamburguesas. Los sabores totalmente resaltados en cada carne que las hacen muy diferentes, en el mejor sentido, a las que conocemos comúnmente.\nLa atención estuvo muy bien al igual que los tiempos de entrega.\nOfrecen refill en gaseosas.\nMenú de niños disponible"
+      }
+    ],
+    "rating": "4"
+  }
+]
